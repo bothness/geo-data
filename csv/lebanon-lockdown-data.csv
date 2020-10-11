@@ -1,4 +1,4 @@
-code,name_en,dist_en,gov_en,name_alt,2020-10-04_2020-10-12,2020-10-12_2020-10-20
+code,name_en,dist_en,gov_en,name_alt,2020-10-05_2020-10-12,2020-10-12_2020-10-19
 21111,Chiyah,Baabda,Mount Lebanon,Chiyah,54,113
 21144,Haret Hreik,Baabda,Mount Lebanon,Haret Hrayk,55,116
 21177,Bourj El-Brajneh,Baabda,Mount Lebanon,Borge el Baragenat,,110
@@ -13,32 +13,32 @@ code,name_en,dist_en,gov_en,name_alt,2020-10-04_2020-10-12,2020-10-12_2020-10-20
 21371,Aaraiya,Baabda,Mount Lebanon,Araya,58,108
 21394,Salima Baabda,Baabda,Mount Lebanon,Salima,53,120
 21446,Falougha,Baabda,Mount Lebanon,Falougha,57,114
-22111,Bourj Hammoud,El Metn,Mount Lebanon,Borge Hammoud,,58
-22155,Sinn El-Fil,El Metn,Mount Lebanon,Senn el Fil,,73
-22262,Dekouane-Deir Mar Roukoz,El Metn,Mount Lebanon,Dekouanet,,62
+22111,Bourj Hammoud,El Meten,Mount Lebanon,Borge Hammoud,,58
+22155,Sinn El-Fil,El Meten,Mount Lebanon,Senn el Fil,,73
+22262,Dekouane-Deir Mar Roukoz,El Meten,Mount Lebanon,Dekouanet,,62
 22311,Antelias,El Meten,Mount Lebanon,Antelias-Naccache,50,53
-22327,Jall Ed-Did-Bqennaya,El Metn,Mount Lebanon,Jal-el-Dib,,66
+22327,Jall Ed-Did-Bqennaya,El Meten,Mount Lebanon,Jal-el-Dib,,66
 22335,Naqqach,El Meten,Mount Lebanon,Antelias-Naccache,50,
 22351,Zalqa,El Meten,Mount Lebanon,Zalka,35,75
 22359,Byaqout,El Meten,Mount Lebanon,Byakout,48,60
-22375,Dbaye,El Metn,Mount Lebanon,DbayT,,61
+22375,Dbaye,El Meten,Mount Lebanon,DbayT,,61
 22419,Fanar,El Meten,Mount Lebanon,Fanar,37,65
-22423,Aain Saade,El Metn,Mount Lebanon,Ann-SaGdT,,51
-22427,Roumiye,El Metn,Mount Lebanon,Roumieh,,72
+22423,Aain Saade,El Meten,Mount Lebanon,Ann-SaGdT,,51
+22427,Roumiye,El Meten,Mount Lebanon,Roumieh,,72
 22439,Bsalim,El Meten,Mount Lebanon,Bsalim,38,59
 22443,Nabay,El Meten,Mount Lebanon,Nabay,42,
 22447,Mtayleb,El Meten,Mount Lebanon,AI Mtayleb,49,69
-22455,Qornet Chehouane,El Metn,Mount Lebanon,Kornet Chahouane,,70
+22455,Qornet Chehouane,El Meten,Mount Lebanon,Kornet Chahouane,,70
 22459,Beit Ech-Chaar,El Meten,Mount Lebanon,Beit Chaar,41,55
 22463,Dik El-Mehdi,El Meten,Mount Lebanon,Dik El Mehdi,36,63
 22475,Mazraat Yachouaa,El Meten,Mount Lebanon,Mazraat Yachouh,51,67
 22483,Zakrit,El Meten,Mount Lebanon,Zekrit,34,74
 22511,Bikfaya,El Meten,Mount Lebanon,Bekfaya,39,57
 22547,Himlaya,El Meten,Mount Lebanon,Hemleya,45,
-22551,aain Aalaq,El Metn,Mount Lebanon,Ann-Alak,,50
+22551,aain Aalaq,El Meten,Mount Lebanon,Ann-Alak,,50
 22595,Qornet El-Hamra,El Meten,Mount Lebanon,Kornet Hamra,40,71
 22659,Baabdat,El Meten,Mount Lebanon,Baabdat,52,54
-22667,Beit Meri,El Metn,Mount Lebanon,Beit Mery,,56
+22667,Beit Meri,El Meten,Mount Lebanon,Beit Mery,,56
 22733,Mrouj,El Meten,Mount Lebanon,AI mrouj,47,68
 22747,Khinchara,El Meten,Mount Lebanon,Khenchara,43,
 22751,Aintoura El-Matn,El Meten,Mount Lebanon,Aintoura,46,52
@@ -76,41 +76,41 @@ code,name_en,dist_en,gov_en,name_alt,2020-10-04_2020-10-12,2020-10-12_2020-10-20
 24447,Btater,Aley,Mount Lebanon,Btater,,127
 24454,Aazouniyeh,Aley,Mount Lebanon,AI Azouniyeh,65,122
 24477,Aain Dara,Aley,Mount Lebanon,Ain Darah,68,
-25111,Jounie Sarba,Kasrouane,Mount Lebanon,DjouniT Sarba,,99
-25121,Jounie Ghadir,Kasrouane,Mount Lebanon,DjouniT Ghadir,,98
-25126,Zouk Mousbeh,Kasrouane,Mount Lebanon,Zouk Mousbeh,,107
-25151,Tabarja,Kasrouane,Mount Lebanon,Tabarja,,105
-25156,Adma Oua Dafine,Kasrouane,Mount Lebanon,Edma et DefnT,,90
-25161,Safra Kesrouane,Kasrouane,Mount Lebanon,EL-Safra,,103
+25111,Jounie Sarba,Kesrwane,Mount Lebanon,DjouniT Sarba,,99
+25121,Jounie Ghadir,Kesrwane,Mount Lebanon,DjouniT Ghadir,,98
+25126,Zouk Mousbeh,Kesrwane,Mount Lebanon,Zouk Mousbeh,,107
+25151,Tabarja,Kesrwane,Mount Lebanon,Tabarja,,105
+25156,Adma Oua Dafine,Kesrwane,Mount Lebanon,Edma et DefnT,,90
+25161,Safra Kesrouane,Kesrwane,Mount Lebanon,EL-Safra,,103
 25166,Bouar,Kesrwane,Mount Lebanon,AI Bouar,31,92
-25211,Aajaltoun,Kasrouane,Mount Lebanon,Ajeltoun,,89
+25211,Aajaltoun,Kesrwane,Mount Lebanon,Ajeltoun,,89
 25221,Balloune,Kesrwane,Mount Lebanon,Balloune,32,91
-25231,Shayle,Kasrouane,Mount Lebanon,Souhailet El-Faouka,,104
+25231,Shayle,Kesrwane,Mount Lebanon,Souhailet El-Faouka,,104
 25261,Jaaita,Kesrwane,Mount Lebanon,Jeita,30,97
-25311,Ghazir,Kasrouane,Mount Lebanon,Ghazir,,95
+25311,Ghazir,Kesrwane,Mount Lebanon,Ghazir,,95
 25313,Bourj El-Ftouh,Kesrwane,Mount Lebanon,Fatqa,33,94
-25315,Chnanaair,Kasrouane,Mount Lebanon,Chenanhir,,93
-25319,Ghosta,Kasrouane,Mount Lebanon,Ghosta,,96
-25329,Kfour Kesrouane,Kasrouane,Mount Lebanon,El-Kfour,,100
-25375,Zaitoun,Kasrouane,Mount Lebanon,Zeitoune,,106
-25411,Rayfoun,Kasrouane,Mount Lebanon,Rayfoun,,102
-25415,Qleiaat,Kasrouane,Mount Lebanon,El-Kleiyate,,101
-25423,Aachqout,Kasrouane,Mount Lebanon,Achkoute,,88
+25315,Chnanaair,Kesrwane,Mount Lebanon,Chenanhir,,93
+25319,Ghosta,Kesrwane,Mount Lebanon,Ghosta,,96
+25329,Kfour Kesrouane,Kesrwane,Mount Lebanon,El-Kfour,,100
+25375,Zaitoun,Kesrwane,Mount Lebanon,Zeitoune,,106
+25411,Rayfoun,Kesrwane,Mount Lebanon,Rayfoun,,102
+25415,Qleiaat,Kesrwane,Mount Lebanon,El-Kleiyate,,101
+25423,Aachqout,Kesrwane,Mount Lebanon,Achkoute,,88
 25435,Raachine,Kesrwane,Mount Lebanon,Raachin,29,
-26111,Jbayl-Hboub,Jubail,Mount Lebanon,Jbail,,84
+26111,Jbayl-Hboub,Jbeil,Mount Lebanon,Jbail,,84
 26129,Blat Jbeil,Jbeil,Mount Lebanon,Blat,26,78
 26135,Eddeh Jbayl,Jbeil,Mount Lebanon,Edde,22,79
 26141,Aamchit,Jbeil,Mount Lebanon,Amshit,27,77
-26147,Halate,Jubail,Mount Lebanon,Halate,,81
+26147,Halate,Jbeil,Mount Lebanon,Halate,,81
 26153,Hasrayel,Jbeil,Mount Lebanon,Hesrayel,28,83
-26165,Jeddeyel,Jubail,Mount Lebanon,Jeddeyel,,85
+26165,Jeddeyel,Jbeil,Mount Lebanon,Jeddeyel,,85
 26171,Nahr Ibrahim,Jbeil,Mount Lebanon,Nahr Ibrahim,24,87
-26177,Mounsef,Jubail,Mount Lebanon,El-Mouncef,,86
+26177,Mounsef,Jbeil,Mount Lebanon,El-Mouncef,,86
 26229,Hsoun,Jbeil,Mount Lebanon,Hsoun,21,
-26247,Haqel,Jubail,Mount Lebanon,Hakel,,82
-26256,Aabaydat,Jubail,Mount Lebanon,Obeidate,,76
+26247,Haqel,Jbeil,Mount Lebanon,Hakel,,82
+26256,Aabaydat,Jbeil,Mount Lebanon,Obeidate,,76
 26266,Fatre,Jbeil,Mount Lebanon,Fatri,25,
-26291,Ghofrine,Jubail,Mount Lebanon,Ghorfine,,80
+26291,Ghofrine,Jbeil,Mount Lebanon,Ghorfine,,80
 26384,Tartij,Jbeil,Mount Lebanon,Tartj,23,
 31111,Al Zeitoun,Tripoli,North,Tripoli Jardins,,20
 31151,El Qobe,Tripoli,North,Tripoli Jardins,,24
@@ -121,10 +121,10 @@ code,name_en,dist_en,gov_en,name_alt,2020-10-04_2020-10-12,2020-10-12_2020-10-20
 31166,El Saki Chemali,Tripoli,North,Tripoli Jardins,,25
 31221,Qalamoun,Tripoli,North,AI Qalamoun,15,
 32125,Bsarma,El Koura,North,Bsorma,8,
-32137,Kousba,Koura,North,Kousba,,16
+32137,Kousba,El Koura,North,Kousba,,16
 32169,Btouratij,El Koura,North,Btoratij,9,
 32181,Enfeh,El Koura,North,Anfeh,10,15
-32185,Ras Masqa,Koura,North,Ras Maska,,17
+32185,Ras Masqa,El Koura,North,Ras Maska,,17
 32187,Barsa,El Koura,North,Barsa,11,14
 33111,Zgharta,Zgharta,North,Zgharta,19,35
 33117,Rachaaine,Zgharta,North,Raashin,17,34
@@ -189,14 +189,14 @@ code,name_en,dist_en,gov_en,name_alt,2020-10-04_2020-10-12,2020-10-12_2020-10-20
 62312,Naqoura,Sour,South,Nakoura,,145
 63184,Aazour,Jezzine,South,Azour,,146
 63267,Kfar Jarra,Jezzine,South,Kfarjarra,90,147
-71144,Choukine,Nabatiye,El Nabatieh,Choukine,,153
-71256,Aarab Salim,Nabatiye,El Nabatieh,Arab Salim,,152
+71144,Choukine,El Nabatieh,El Nabatieh,Choukine,,153
+71256,Aarab Salim,El Nabatieh,El Nabatieh,Arab Salim,,152
 71261,Roumine,El Nabatieh,El Nabatieh,Roumin,96,
-71327,Nmairiye,Nabatiye,El Nabatieh,NmTriyT,,154
+71327,Nmairiye,El Nabatieh,El Nabatieh,NmTriyT,,154
 72111,Bent Jbayl,Bent Jbeil,El Nabatieh,Bint Jbeil,94,148
 72167,Rmaich,Bent Jbeil,El Nabatieh,Rmeich,93,
 72229,Chaqra,Bent Jbeil,El Nabatieh,Chakra,92,149
-72277,Yater,Bint Jubail,El Nabatieh,Yater,,151
+72277,Yater,Bent Jbeil,El Nabatieh,Yater,,151
 72281,Debl,Bent Jbeil,El Nabatieh,Debel,91,150
 73127,Ibl Es-Saqi,Marjaayoun,El Nabatieh,Ebl AI Saki,95,
 74128,Mimas,Hasbaiya,El Nabatieh,Mimas,,155
