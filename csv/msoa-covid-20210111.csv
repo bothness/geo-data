@@ -1,0 +1,984 @@
+,MSOA code,MSOA name,houseprice,areaCode,areaName,LtlaName,newCasesBySpecimenDateRollingRate
+0,E02000002,Barking and Dagenham 001,347500.0,E02000002,Marks Gate,Barking and Dagenham,1512.6
+1,E02000003,Barking and Dagenham 002,361000.0,E02000003,Chadwell Heath East,Barking and Dagenham,1852.5
+2,E02000004,Barking and Dagenham 003,356000.0,E02000004,Eastbrookend,Barking and Dagenham,1779.6
+3,E02000005,Barking and Dagenham 004,325000.0,E02000005,Becontree Heath,Barking and Dagenham,1687.1
+4,E02000007,Barking and Dagenham 006,311250.0,E02000007,Central Park & Frizlands Lane,Barking and Dagenham,1035.0
+5,E02000008,Barking and Dagenham 007,310000.0,E02000008,Becontree East,Barking and Dagenham,1642.7
+6,E02000009,Barking and Dagenham 008,299975.0,E02000009,Becontree West,Barking and Dagenham,1817.6
+7,E02000010,Barking and Dagenham 009,308000.0,E02000010,Dagenham North,Barking and Dagenham,1651.5
+8,E02000011,Barking and Dagenham 010,335000.0,E02000011,Dagenham Eastbrook,Barking and Dagenham,1873.0
+9,E02000012,Barking and Dagenham 011,452750.0,E02000012,Longbridge & Barking Park,Barking and Dagenham,1957.3
+10,E02000013,Barking and Dagenham 012,313000.0,E02000013,Becontree South,Barking and Dagenham,1709.9
+11,E02000014,Barking and Dagenham 013,306000.0,E02000014,Dagenham Central,Barking and Dagenham,1708.7
+12,E02000015,Barking and Dagenham 014,322500.0,E02000015,Old Dagenham Park & Village,Barking and Dagenham,1807.1
+13,E02000016,Barking and Dagenham 015,257500.0,E02000016,Barking Central,Barking and Dagenham,1167.5
+14,E02000017,Barking and Dagenham 016,336000.0,E02000017,Barking East,Barking and Dagenham,1380.1
+15,E02000018,Barking and Dagenham 017,299000.0,E02000018,Mayesbrook Park & Rippleside,Barking and Dagenham,1305.8
+16,E02000019,Barking and Dagenham 018,315000.0,E02000019,Goresbrook & Scrattons Farm,Barking and Dagenham,1874.9
+17,E02000020,Barking and Dagenham 019,375000.0,E02000020,Creekmouth & Barking Riverside,Barking and Dagenham,1654.8
+18,E02000021,Barking and Dagenham 020,292000.0,E02000021,Rylands Estate & Dagenham Dock,Barking and Dagenham,1811.3
+19,E02000022,Barking and Dagenham 021,244000.0,E02000022,Gascoigne Estate & Roding Riverside,Barking and Dagenham,1087.6
+20,E02000023,Barking and Dagenham 022,310498.0,E02000023,Thames View,Barking and Dagenham,1358.4
+21,E02006799,Barking and Dagenham 023,325000.0,E02006799,Becontree North,Barking and Dagenham,1517.3
+22,E02000024,Barnet 001,600000.0,E02000024,High Barnet & Hadley,Barnet,759.7
+23,E02000025,Barnet 002,435000.0,E02000025,Hadley Wood,Barnet,838.6
+24,E02000026,Barnet 003,615000.0,E02000026,Oak Hill,Barnet,1046.6
+25,E02000027,Barnet 004,522500.0,E02000027,Ducks Island & Underhill,Barnet,985.7
+26,E02000028,Barnet 005,547500.0,E02000028,New Barnet West,Barnet,954.6
+27,E02000029,Barnet 006,470000.0,E02000029,New Barnet Town & East Barnet,Barnet,1185.1
+28,E02000030,Barnet 007,877500.0,E02000030,Totteridge & Barnet Gate,Barnet,844.1
+29,E02000031,Barnet 008,635500.0,E02000031,Oakleigh Park,Barnet,1323.8
+30,E02000032,Barnet 009,652000.0,E02000032,Osidge,Barnet,1248.2
+31,E02000033,Barnet 010,497000.0,E02000033,Brunswick Park Road,Barnet,1224.3
+32,E02000034,Barnet 011,492000.0,E02000034,Whetstone East,Barnet,1058.1
+33,E02000035,Barnet 012,556250.0,E02000035,Woodside Park,Barnet,694.1
+34,E02000036,Barnet 013,465000.0,E02000036,Edgware East,Barnet,1021.9
+35,E02000037,Barnet 014,650000.0,E02000037,Edgware Park,Barnet,1184.6
+36,E02000038,Barnet 015,550000.0,E02000038,Friern Barnet,Barnet,975.7
+37,E02000039,Barnet 016,700000.0,E02000039,Mill Hill Park,Barnet,868.4
+38,E02000040,Barnet 017,599998.0,E02000040,Mill Hill East,Barnet,1195.0
+39,E02000041,Barnet 018,511500.0,E02000041,Edgware Central,Barnet,966.7
+40,E02000042,Barnet 019,445000.0,E02000042,North Finchley,Barnet,1004.3
+41,E02000043,Barnet 020,765000.0,E02000043,West Finchley,Barnet,865.2
+42,E02000044,Barnet 021,392500.0,E02000044,Mill Hill Broadway,Barnet,1216.8
+43,E02000045,Barnet 022,372500.0,E02000045,Colney Hatch,Barnet,831.4
+44,E02000046,Barnet 023,600000.0,E02000046,Church End,Barnet,852.7
+45,E02000047,Barnet 024,300000.0,E02000047,Burnt Oak & Watling Park,Barnet,1078.7
+46,E02000048,Barnet 025,600000.0,E02000048,Copthall & Downage,Barnet,990.0
+47,E02000049,Barnet 026,467000.0,E02000049,Grahame Park,Barnet,1319.1
+48,E02000050,Barnet 027,549000.0,E02000050,Fallow Corner,Barnet,1026.3
+49,E02000051,Barnet 028,630000.0,E02000051,Finchley Central,Barnet,992.7
+50,E02000052,Barnet 029,558750.0,E02000052,East Finchley,Barnet,904.6
+51,E02000053,Barnet 030,450000.0,E02000053,Colindale,Barnet,1030.9
+52,E02000054,Barnet 031,575000.0,E02000054,North Hendon & Sunny Hill,Barnet,1006.8
+53,E02000055,Barnet 032,481500.0,E02000055,Hendon Central,Barnet,1208.9
+54,E02000056,Barnet 033,1182000.0,E02000056,Hampstead Garden Suburb,Barnet,707.7
+55,E02000057,Barnet 034,668000.0,E02000057,Hendon Park,Barnet,771.6
+56,E02000058,Barnet 035,795000.0,E02000058,Temple Fortune,Barnet,730.5
+57,E02000059,Barnet 036,415000.0,E02000059,West Hendon,Barnet,1322.3
+58,E02000060,Barnet 037,908500.0,E02000060,Golders Green North,Barnet,898.6
+59,E02000061,Barnet 038,1084000.0,E02000061,Golders Green South,Barnet,817.4
+60,E02000062,Barnet 039,459250.0,E02000062,Brent Cross & Staples Corner,Barnet,1338.8
+61,E02000063,Barnet 040,627500.0,E02000063,North Cricklewood,Barnet,1106.2
+62,E02000064,Barnet 041,500000.0,E02000064,Childs Hill,Barnet,1068.3
+63,E02000065,Bexley 001,300000.0,E02000065,Crossway Park,Bexley,1150.7
+64,E02000066,Bexley 002,304000.0,E02000066,South Thamesmead,Bexley,893.7
+65,E02000067,Bexley 003,270000.0,E02000067,Belvedere & Lessness Heath,Bexley,1348.8
+66,E02000068,Bexley 004,246500.0,E02000068,Erith East,Bexley,1462.9
+67,E02000069,Bexley 005,315000.0,E02000069,Erith West,Bexley,1273.3
+68,E02000070,Bexley 006,385000.0,E02000070,Lesnes Abbey,Bexley,1373.9
+69,E02000071,Bexley 007,332500.0,E02000071,Northumberland Heath,Bexley,1216.3
+70,E02000072,Bexley 008,298250.0,E02000072,Slade Green & Crayford Marshes,Bexley,1066.0
+71,E02000073,Bexley 009,425000.0,E02000073,Bostall,Bexley,1132.7
+72,E02000074,Bexley 010,267500.0,E02000074,Lesney Farm & Colyers East,Bexley,1359.0
+73,E02000075,Bexley 011,421000.0,E02000075,Bursted Wood,Bexley,1106.9
+74,E02000077,Bexley 013,375000.0,E02000077,St Michael's,Bexley,1339.2
+75,E02000078,Bexley 014,350000.0,E02000078,Barnehurst North,Bexley,1312.8
+76,E02000079,Bexley 015,372500.0,E02000079,Bexleyheath Broadway,Bexley,1300.2
+77,E02000080,Bexley 016,380000.0,E02000080,Welling,Bexley,1160.8
+78,E02000081,Bexley 017,353750.0,E02000081,Barnehurst South,Bexley,1335.6
+79,E02000082,Bexley 018,380000.0,E02000082,Falconwood,Bexley,1192.0
+80,E02000083,Bexley 019,312000.0,E02000083,Crayford,Bexley,1046.0
+81,E02000084,Bexley 020,425000.0,E02000084,Danson Park,Bexley,1371.7
+82,E02000085,Bexley 021,340000.0,E02000085,Blackfen,Bexley,1479.4
+83,E02000086,Bexley 022,410000.0,E02000086,Lamorbey,Bexley,1497.0
+84,E02000087,Bexley 023,440000.0,E02000087,Bexley Village,Bexley,1008.3
+85,E02000088,Bexley 024,442000.0,E02000088,Albany Park,Bexley,1013.1
+86,E02000089,Bexley 025,465000.0,E02000089,Longlands & Halfway,Bexley,1255.8
+87,E02000090,Bexley 026,333000.0,E02000090,Sidcup East,Bexley,1128.3
+88,E02000091,Bexley 027,375000.0,E02000091,Sidcup West,Bexley,1072.5
+89,E02000092,Bexley 028,350000.0,E02000092,Foots Cray Meadows,Bexley,1312.1
+90,E02006785,Bexley 029,361000.0,E02006785,Wickham Street & East Wickham,Bexley,1293.0
+91,E02000093,Brent 001,486500.0,E02000093,Queensbury South,Brent,1510.1
+92,E02000094,Brent 002,495000.0,E02000094,Kingsbury East & Colindale,Brent,1498.3
+93,E02000095,Brent 003,560000.0,E02000095,Kingsbury West,Brent,1051.1
+94,E02000096,Brent 004,650000.0,E02000096,Kenton Woodcock Park,Brent,751.3
+95,E02000097,Brent 005,458000.0,E02000097,Kingsbury South,Brent,1207.5
+96,E02000098,Brent 006,568500.0,E02000098,Barnhill The Avenue,Brent,1126.2
+97,E02000099,Brent 007,505000.0,E02000099,Preston Park & East Lane,Brent,980.6
+98,E02000100,Brent 008,640000.0,E02000100,Northwick Park,Brent,928.4
+99,E02000101,Brent 009,370000.0,E02000101,Forty Lane,Brent,888.9
+100,E02000102,Brent 010,450000.0,E02000102,Welsh Harp,Brent,1108.6
+101,E02000103,Brent 011,375000.0,E02000103,Dollis Hill,Brent,1646.4
+102,E02000104,Brent 012,510000.0,E02000104,Wembley North,Brent,964.9
+103,E02000105,Brent 013,345000.0,E02000105,Sudbury East,Brent,1169.7
+104,E02000106,Brent 014,571250.0,E02000106,Neasden,Brent,1122.1
+105,E02000107,Brent 015,482500.0,E02000107,Cricklewood Anson Road,Brent,1012.9
+106,E02000108,Brent 016,440000.0,E02000108,Sudbury West,Brent,899.9
+107,E02000109,Brent 017,440000.0,E02000109,Tokyngton,Brent,983.4
+108,E02000110,Brent 018,600000.0,E02000110,Dudden Hill,Brent,944.3
+109,E02000111,Brent 019,475000.0,E02000111,Wembley West,Brent,904.4
+110,E02000112,Brent 020,151500.0,E02000112,Wembley East,Brent,978.2
+111,E02000113,Brent 021,430000.0,E02000113,St Raphaels,Brent,881.2
+112,E02000114,Brent 022,497500.0,E02000114,Willesden Green,Brent,862.8
+113,E02000115,Brent 023,510000.0,E02000115,Brondesbury,Brent,826.1
+114,E02000116,Brent 024,407500.0,E02000116,Roundwood Park,Brent,1126.8
+115,E02000117,Brent 025,450000.0,E02000117,Church End,Brent,948.1
+116,E02000118,Brent 026,420000.0,E02000118,Alperton East,Brent,1158.4
+117,E02000119,Brent 027,385000.0,E02000119,Stonebridge,Brent,827.8
+118,E02000120,Brent 028,597500.0,E02000120,Kilburn West,Brent,681.3
+119,E02000121,Brent 029,350000.0,E02000121,Alperton West,Brent,1040.8
+120,E02000122,Brent 030,1100000.0,E02000122,Brondesbury Park,Brent,1128.4
+121,E02000123,Brent 031,485000.0,E02000123,Harlesden,Brent,947.8
+122,E02000124,Brent 032,1012500.0,E02000124,Queens Park,Brent,949.4
+123,E02000125,Brent 033,735000.0,E02000125,Kensal Green,Brent,827.1
+124,E02000126,Brent 034,556500.0,E02000126,Kilburn Park,Brent,914.9
+125,E02000127,Bromley 001,348000.0,E02000127,Mottingham,Bromley,1202.6
+126,E02000128,Bromley 002,438000.0,E02000128,Chislehurst North,Bromley,1545.8
+127,E02000130,Bromley 004,525000.0,E02000130,Penge East,Bromley,1039.2
+128,E02000131,Bromley 005,393000.0,E02000131,Crystal Palace Park,Bromley,935.7
+129,E02000132,Bromley 006,395000.0,E02000132,New Beckenham,Bromley,1003.6
+130,E02000133,Bromley 007,690000.0,E02000133,Chislehurst West & Elmstead,Bromley,1026.4
+131,E02000134,Bromley 008,358000.0,E02000134,Bromley North & Sundridge,Bromley,1091.0
+132,E02000135,Bromley 009,339800.0,E02000135,Anerley North & Penge West,Bromley,1131.9
+133,E02000136,Bromley 010,542500.0,E02000136,Chislehurst East & Hoblingwell Wood,Bromley,1468.6
+134,E02000137,Bromley 011,470000.0,E02000137,Shortlands Bromley Road,Bromley,1136.0
+135,E02000138,Bromley 012,441000.0,E02000138,Beckenham East & Kelsey Park,Bromley,1087.6
+136,E02000139,Bromley 013,452500.0,E02000139,Clock House & Cator Park,Bromley,1001.0
+137,E02000140,Bromley 014,315000.0,E02000140,St Mary Cray North,Bromley,1347.2
+138,E02000141,Bromley 015,420000.0,E02000141,Anerley South,Bromley,1194.8
+139,E02000142,Bromley 016,531250.0,E02000142,Widmore,Bromley,1028.0
+140,E02000144,Bromley 018,420000.0,E02000144,Bromley South,Bromley,1117.3
+141,E02000145,Bromley 019,290000.0,E02000145,St Mary Cray East,Bromley,1107.2
+142,E02000146,Bromley 020,450000.0,E02000146,Bickley West,Bromley,841.6
+143,E02000147,Bromley 021,705000.0,E02000147,Langley Park,Bromley,860.4
+144,E02000148,Bromley 022,580000.0,E02000148,Bickley East,Bromley,903.8
+145,E02000149,Bromley 023,357500.0,E02000149,St Mary Cray South,Bromley,1429.8
+146,E02000150,Bromley 024,500000.0,E02000150,Eden Park & Bethlem,Bromley,1149.0
+147,E02000151,Bromley 025,625000.0,E02000151,Petts Wood,Bromley,876.2
+148,E02000152,Bromley 026,417500.0,E02000152,Bromley Common,Bromley,962.1
+149,E02000153,Bromley 027,568500.0,E02000153,Hayes North,Bromley,1121.6
+150,E02000154,Bromley 028,373500.0,E02000154,Orpington West,Bromley,1174.1
+151,E02000155,Bromley 029,370000.0,E02000155,Orpington East,Bromley,1053.4
+152,E02000156,Bromley 030,565000.0,E02000156,West Wickham,Bromley,1072.3
+153,E02000157,Bromley 031,520000.0,E02000157,Crofton,Bromley,889.3
+154,E02000158,Bromley 032,471000.0,E02000158,Goddington,Bromley,890.2
+155,E02000159,Bromley 033,597000.0,E02000159,Keston,Bromley,1221.3
+156,E02000160,Bromley 034,559500.0,E02000160,Hayes South & Coney Hall,Bromley,1170.9
+157,E02000161,Bromley 035,465000.0,E02000161,Orpington South,Bromley,591.7
+158,E02000162,Bromley 036,520500.0,E02000162,Farnborough,Bromley,1385.1
+159,E02000163,Bromley 037,500000.0,E02000163,Chelsfield & Green Street Green,Bromley,880.7
+160,E02000165,Bromley 039,355000.0,E02000165,Biggin Hill West,Bromley,1476.3
+161,E02006782,Bromley 040,471500.0,E02006782,Plaistow (Bromley),Bromley,1142.7
+162,E02006787,Bromley 041,526000.0,E02006787,Elmers End,Bromley,1313.2
+163,E02006789,Bromley 042,425000.0,E02006789,Biggin Hill East & Cudham,Bromley,1478.7
+164,E02000166,Camden 001,805000.0,E02000166,Highgate West,Camden,879.8
+165,E02000167,Camden 002,1445000.0,E02000167,Hampstead Town,Camden,330.4
+166,E02000168,Camden 003,790000.0,E02000168,Tufnell Park West,Camden,918.8
+167,E02000169,Camden 004,1231500.0,E02000169,Frognal,Camden,634.5
+168,E02000170,Camden 005,757500.0,E02000170,Fortune Green,Camden,710.5
+169,E02000171,Camden 006,717500.0,E02000171,Mansfield Road & Park Hill Road,Camden,567.6
+170,E02000172,Camden 007,515000.0,E02000172,Kentish Town West,Camden,943.4
+171,E02000173,Camden 008,1000000.0,E02000173,Fitzjohns & Royal Free,Camden,420.3
+172,E02000174,Camden 009,630000.0,E02000174,Kentish Town East,Camden,840.7
+173,E02000175,Camden 010,690000.0,E02000175,West Hampstead,Camden,495.7
+174,E02000176,Camden 011,920000.0,E02000176,Belsize Park,Camden,680.1
+175,E02000177,Camden 012,642500.0,E02000177,Chalk Farm,Camden,717.2
+176,E02000178,Camden 013,530000.0,E02000178,Kilburn Grange,Camden,862.0
+177,E02000179,Camden 014,1375000.0,E02000179,Adelaide Road,Camden,974.2
+178,E02000180,Camden 015,647500.0,E02000180,Camden Road South,Camden,826.7
+179,E02000181,Camden 016,811000.0,E02000181,South Hampstead,Camden,653.6
+180,E02000182,Camden 017,1010000.0,E02000182,Swiss Cottage,Camden,628.2
+181,E02000183,Camden 018,900000.0,E02000183,Primrose Hill,Camden,562.7
+182,E02000184,Camden 019,707500.0,E02000184,Camden Street & Elm Village,Camden,730.2
+183,E02000185,Camden 020,559250.0,E02000185,Kilburn East,Camden,922.4
+184,E02000186,Camden 021,697500.0,E02000186,Camden Town & Mornington Crescent,Camden,552.9
+185,E02000187,Camden 022,1092250.0,E02000187,Somers Town,Camden,1112.3
+186,E02000188,Camden 023,340000.0,E02000188,Euston,Camden,585.0
+187,E02000189,Camden 024,450000.0,E02000189,Gray's Inn Road,Camden,678.0
+188,E02000190,Camden 025,584375.0,E02000190,Bloomsbury East,Camden,345.4
+189,E02000191,Camden 026,655000.0,E02000191,Fitzrovia East & Bloomsbury West,Camden,405.2
+190,E02000192,Camden 027,764750.0,E02000192,Hatton Garden & Theobalds Road,Camden,500.2
+191,E02000193,Camden 028,746250.0,E02000193,"Holborn, St Giles & Bloomsbury South",Camden,377.7
+192,E02000001,City of London 001,815000.0,E02000001,City of London,Hackney and City of London,483.5
+193,E02000194,Croydon 001,400000.0,E02000194,Crystal Palace Triangle,Croydon,885.0
+194,E02000195,Croydon 002,495000.0,E02000195,Upper Norwood,Croydon,1276.3
+195,E02000196,Croydon 003,450000.0,E02000196,Norbury East,Croydon,1340.8
+196,E02000197,Croydon 004,440000.0,E02000197,Norbury West,Croydon,1120.1
+197,E02000198,Croydon 005,322500.0,E02000198,Thornton Heath North West,Croydon,1358.9
+198,E02000199,Croydon 006,373750.0,E02000199,Thornton Heath North East,Croydon,827.1
+199,E02000200,Croydon 007,328125.0,E02000200,South Norwood Hill,Croydon,1147.9
+200,E02000201,Croydon 008,351500.0,E02000201,South Norwood Central,Croydon,787.1
+201,E02000202,Croydon 009,365000.0,E02000202,Thornton Heath West,Croydon,1167.0
+202,E02000203,Croydon 010,341000.0,E02000203,Thornton Heath Central,Croydon,1122.6
+203,E02000204,Croydon 011,350000.0,E02000204,West Thornton North,Croydon,1369.6
+204,E02000206,Croydon 013,308500.0,E02000206,Selhurst North,Croydon,939.0
+205,E02000207,Croydon 014,350000.0,E02000207,Woodside & Ashburton,Croydon,974.0
+206,E02000208,Croydon 015,310000.0,E02000208,University Hospital & Queen's Road,Croydon,996.0
+207,E02000209,Croydon 016,340000.0,E02000209,West Thornton South & Ampere Way,Croydon,1480.5
+208,E02000210,Croydon 017,395000.0,E02000210,Addiscombe North,Croydon,1064.6
+209,E02000211,Croydon 018,410000.0,E02000211,Monks Orchard,Croydon,1127.9
+210,E02000212,Croydon 019,341750.0,E02000212,Broad Green & Waddon Marsh,Croydon,1121.0
+211,E02000213,Croydon 020,280000.0,E02000213,Selhurst South & West Croydon,Croydon,1106.8
+212,E02000214,Croydon 021,450000.0,E02000214,Addiscombe East,Croydon,1206.4
+213,E02000215,Croydon 022,325000.0,E02000215,Addiscombe West,Croydon,819.8
+214,E02000216,Croydon 023,428750.0,E02000216,Park Hill & Lloyd Park,Croydon,930.1
+215,E02000217,Croydon 024,290000.0,E02000217,Croydon Minster & Waddon North,Croydon,1129.9
+216,E02000218,Croydon 025,498000.0,E02000218,Shirley East,Croydon,1150.5
+217,E02000219,Croydon 026,495000.0,E02000219,Shirley West,Croydon,1018.5
+218,E02000220,Croydon 027,290000.0,E02000220,Central Croydon,Croydon,1090.2
+219,E02000221,Croydon 028,380500.0,E02000221,Waddon South,Croydon,1308.0
+220,E02000222,Croydon 029,360000.0,E02000222,Croham,Croydon,887.5
+221,E02000223,Croydon 030,300000.0,E02000223,New Addington North,Croydon,1176.5
+222,E02000224,Croydon 031,323000.0,E02000224,Purley North,Croydon,1149.3
+223,E02000225,Croydon 032,318000.0,E02000225,New Addington Central,Croydon,1647.0
+224,E02000226,Croydon 033,515000.0,E02000226,Selsdon,Croydon,1062.8
+225,E02000227,Croydon 034,325000.0,E02000227,Forestdale,Croydon,1003.8
+226,E02000228,Croydon 035,570000.0,E02000228,Sanderstead,Croydon,1002.2
+227,E02000229,Croydon 036,318500.0,E02000229,New Addington South,Croydon,1233.5
+228,E02000230,Croydon 037,550000.0,E02000230,Purley Central,Croydon,894.7
+229,E02000231,Croydon 038,650000.0,E02000231,Woodcote,Croydon,1160.5
+230,E02000232,Croydon 039,482000.0,E02000232,Selsdon Park & Hamsey Green,Croydon,1101.0
+231,E02000233,Croydon 040,385000.0,E02000233,Kenley North,Croydon,972.1
+232,E02000234,Croydon 041,442500.0,E02000234,Coulsdon,Croydon,1329.9
+233,E02000235,Croydon 042,497500.0,E02000235,Kenley South,Croydon,933.1
+234,E02000236,Croydon 043,576998.0,E02000236,Woodmansterne,Croydon,885.0
+235,E02000237,Croydon 044,450575.0,E02000237,Old Coulsdon,Croydon,1041.0
+236,E02006788,Croydon 045,383000.0,E02006788,South Norwood Park,Croydon,1173.7
+237,E02000238,Ealing 001,435000.0,E02000238,Whitton Avenue West,Ealing,1324.2
+238,E02000239,Ealing 002,480000.0,E02000239,Horsenden,Ealing,878.3
+239,E02000240,Ealing 003,400000.0,E02000240,Northolt West,Ealing,1314.6
+240,E02000241,Ealing 004,425000.0,E02000241,Northolt East,Ealing,1803.3
+241,E02000242,Ealing 005,435000.0,E02000242,Bilton Road,Ealing,1099.1
+242,E02000243,Ealing 006,460000.0,E02000243,Greenford North,Ealing,1105.4
+243,E02000244,Ealing 007,447500.0,E02000244,Perivale,Ealing,957.4
+244,E02000245,Ealing 008,290000.0,E02000245,Northolt South,Ealing,974.8
+245,E02000246,Ealing 009,385000.0,E02000246,Kingshill Avenue,Ealing,1439.4
+246,E02000247,Ealing 010,352000.0,E02000247,Greenford West,Ealing,1359.1
+247,E02000248,Ealing 011,499975.0,E02000248,Hanger Hill East,Ealing,827.1
+248,E02000249,Ealing 012,432500.0,E02000249,Greenford South,Ealing,1105.3
+249,E02000250,Ealing 013,800000.0,E02000250,Pitshanger,Ealing,1076.3
+250,E02000251,Ealing 014,425000.0,E02000251,Greenford Ravenor Park,Ealing,1169.0
+251,E02000252,Ealing 015,311003.0,E02000252,North Acton,Ealing,882.9
+252,E02000253,Ealing 016,453250.0,E02000253,Cuckoo Park,Ealing,1091.1
+253,E02000254,Ealing 017,418750.0,E02000254,Southall North,Ealing,1109.1
+254,E02000255,Ealing 018,625000.0,E02000255,Drayton Green & Cleveland,Ealing,897.8
+255,E02000256,Ealing 019,455000.0,E02000256,Ealing Broadway West,Ealing,709.1
+256,E02000257,Ealing 020,600000.0,E02000257,Ealing Broadway East,Ealing,629.2
+257,E02000258,Ealing 021,700000.0,E02000258,Acton Noel Road & Lunton Road,Ealing,711.2
+258,E02000259,Ealing 022,508586.0,E02000259,Brent Valley,Ealing,1119.7
+259,E02000260,Ealing 023,447500.0,E02000260,Southall Park,Ealing,891.4
+260,E02000261,Ealing 024,495000.0,E02000261,East Acton,Ealing,1214.9
+261,E02000262,Ealing 025,545000.0,E02000262,Acton Central,Ealing,852.6
+262,E02000263,Ealing 026,410000.0,E02000263,Southall West,Ealing,970.9
+263,E02000264,Ealing 027,575000.0,E02000264,Ealing Common & Twyford Ave,Ealing,1206.8
+264,E02000265,Ealing 028,600000.0,E02000265,West Ealing,Ealing,585.9
+265,E02000266,Ealing 029,430000.0,E02000266,Norwood Green North & Windmill Park,Ealing,1275.5
+266,E02000267,Ealing 030,583500.0,E02000267,Hanwell,Ealing,872.3
+267,E02000268,Ealing 031,670000.0,E02000268,St Mary's,Ealing,796.6
+268,E02000269,Ealing 032,692500.0,E02000269,Northfields,Ealing,587.8
+269,E02000270,Ealing 033,509000.0,E02000270,South Acton,Ealing,624.6
+270,E02000271,Ealing 034,1000000.0,E02000271,Bedford Park,Ealing,609.4
+271,E02000272,Ealing 035,732500.0,E02000272,Elthorne Park,Ealing,590.6
+272,E02000274,Ealing 037,357500.0,E02000274,Southall Green,Ealing,1099.3
+273,E02000275,Ealing 038,297500.0,E02000275,Norwood Green South,Ealing,1148.1
+274,E02000276,Ealing 039,565000.0,E02000276,South Ealing,Ealing,540.8
+275,E02006791,Ealing 040,400000.0,E02006791,Chiswick North West,Ealing,766.2
+276,E02000277,Enfield 001,365750.0,E02000277,Bullsmoor & Freezywater,Enfield,1212.5
+277,E02000278,Enfield 002,367500.0,E02000278,Turkey Street,Enfield,1588.6
+278,E02000279,Enfield 003,340000.0,E02000279,Enfield Lock,Enfield,1355.1
+279,E02000280,Enfield 004,450000.0,E02000280,Chase & Crews Hill,Enfield,1304.8
+280,E02000281,Enfield 005,352500.0,E02000281,Carterhatch & Forty Hall,Enfield,1431.5
+281,E02000282,Enfield 006,340000.0,E02000282,Enfield Wash,Enfield,1274.3
+282,E02000283,Enfield 007,372000.0,E02000283,Brimsdown Avenue,Enfield,1434.4
+283,E02000284,Enfield 008,436500.0,E02000284,Chase Side,Enfield,1156.6
+284,E02000285,Enfield 009,497500.0,E02000285,Enfield Town North,Enfield,1276.7
+285,E02000286,Enfield 010,415000.0,E02000286,Chase Farm & The Ridgeway,Enfield,975.1
+286,E02000287,Enfield 011,1141150.0,E02000287,Cockfosters & Hadley Wood,Enfield,1417.3
+287,E02000288,Enfield 012,367000.0,E02000288,Southbury East,Enfield,1604.7
+288,E02000289,Enfield 013,687500.0,E02000289,World's End,Enfield,962.0
+289,E02000290,Enfield 014,327500.0,E02000290,Brimsdown & Ponders End,Enfield,1276.6
+290,E02000291,Enfield 015,375000.0,E02000291,Enfield Town South & Bush Hill Park,Enfield,1283.7
+291,E02000292,Enfield 016,420000.0,E02000292,Southbury West,Enfield,1414.5
+292,E02000293,Enfield 017,730000.0,E02000293,Grange Park,Enfield,1209.1
+293,E02000294,Enfield 018,370000.0,E02000294,Ponders End South,Enfield,1357.5
+294,E02000295,Enfield 019,510000.0,E02000295,Oakwood Park & Highlands,Enfield,1195.9
+295,E02000296,Enfield 020,479500.0,E02000296,Southgate,Enfield,1182.9
+296,E02000297,Enfield 021,545000.0,E02000297,Bury Street West & Village Road,Enfield,1450.0
+297,E02000298,Enfield 022,787500.0,E02000298,Winchmore Hill,Enfield,1203.5
+298,E02000299,Enfield 023,342498.0,E02000299,Lower Edmonton North,Enfield,1151.3
+299,E02000300,Enfield 024,358500.0,E02000300,Haslebury North,Enfield,970.8
+300,E02000301,Enfield 025,342000.0,E02000301,Lower Edmonton South,Enfield,1118.5
+301,E02000302,Enfield 026,530000.0,E02000302,Palmers Green East,Enfield,1485.0
+302,E02000303,Enfield 027,362500.0,E02000303,Haslebury South,Enfield,1187.5
+303,E02000304,Enfield 028,856650.0,E02000304,Southgate Green,Enfield,1114.1
+304,E02000305,Enfield 029,449950.0,E02000305,Palmers Green West,Enfield,1148.8
+305,E02000306,Enfield 030,243750.0,E02000306,Edmonton Green,Enfield,1169.1
+306,E02000307,Enfield 031,395000.0,E02000307,Tatem Park,Enfield,1617.1
+307,E02000308,Enfield 032,500000.0,E02000308,New Southgate & Arnos Grove,Enfield,1009.3
+308,E02000309,Enfield 033,341250.0,E02000309,Upper Edmonton East & Meridian Water,Enfield,950.8
+309,E02000311,Enfield 035,420000.0,E02000311,Bowes,Enfield,1159.9
+310,E02000312,Enfield 036,525000.0,E02000312,Broomfield Park,Enfield,985.2
+311,E02006793,Enfield 037,252000.0,E02006793,Upper Edmonton West,Enfield,1403.1
+312,E02000313,Greenwich 001,295000.0,E02000313,Thamesmead Birchmere Park,Greenwich,1151.3
+313,E02000314,Greenwich 002,280000.0,E02000314,West Thamesmead,Greenwich,1038.9
+314,E02000315,Greenwich 003,330000.0,E02000315,Abbey Wood North,Greenwich,1202.2
+315,E02000316,Greenwich 004,519000.0,E02000316,"Woolwich Dockyard, Arsenal & Charlton Riverside",Greenwich,898.9
+316,E02000317,Greenwich 005,372000.0,E02000317,Woolwich West,Greenwich,685.8
+317,E02000318,Greenwich 006,335000.0,E02000318,Plumstead High Street,Greenwich,1406.8
+318,E02000319,Greenwich 007,335000.0,E02000319,Plumstead Common & Riverside,Greenwich,974.3
+319,E02000320,Greenwich 008,342000.0,E02000320,Abbey Wood South,Greenwich,1200.5
+320,E02000321,Greenwich 009,300000.0,E02000321,Woolwich Glyndon,Greenwich,921.7
+321,E02000323,Greenwich 011,400000.0,E02000323,Woolwich South,Greenwich,1315.0
+322,E02000324,Greenwich 012,460000.0,E02000324,Charlton Village,Greenwich,1285.6
+323,E02000326,Greenwich 014,487000.0,E02000326,Charlton Slopes,Greenwich,992.4
+324,E02000327,Greenwich 015,455000.0,E02000327,Woolwich Common,Greenwich,1122.2
+325,E02000328,Greenwich 016,581625.0,E02000328,Westcombe Park & Maze Hill,Greenwich,873.4
+326,E02000329,Greenwich 017,356000.0,E02000329,Plumstead South,Greenwich,1027.9
+327,E02000331,Greenwich 019,360000.0,E02000331,Hornfair Park,Greenwich,1195.6
+328,E02000332,Greenwich 020,420000.0,E02000332,Shooters Hill,Greenwich,892.5
+329,E02000333,Greenwich 021,654000.0,E02000333,Blackheath Standard & Village,Greenwich,709.4
+330,E02000334,Greenwich 022,405000.0,E02000334,Kidbrooke North,Greenwich,1389.9
+331,E02000335,Greenwich 023,460000.0,E02000335,Eltham North,Greenwich,1244.1
+332,E02000337,Greenwich 025,370000.0,E02000337,Eltham West,Greenwich,1270.4
+333,E02000339,Greenwich 027,580000.0,E02000339,Eltham Park,Greenwich,1046.5
+334,E02000340,Greenwich 028,417500.0,E02000340,Eltham South,Greenwich,1289.9
+335,E02000341,Greenwich 029,340000.0,E02000341,Middlepark & Horn Park,Greenwich,1399.4
+336,E02000342,Greenwich 030,390000.0,E02000342,Avery Hill,Greenwich,1143.7
+337,E02000343,Greenwich 031,426875.0,E02000343,Mottingham East,Greenwich,1359.2
+338,E02000344,Greenwich 032,477500.0,E02000344,New Eltham,Greenwich,1512.1
+339,E02006786,Greenwich 033,342500.0,E02006786,Wickham Lane & Winns Common,Greenwich,1126.2
+340,E02006927,Greenwich 034,528438.0,E02006927,Kidbrooke South,Greenwich,1529.3
+341,E02006928,Greenwich 035,495000.0,E02006928,Greenwich & Deptford Creekside,Greenwich,832.0
+342,E02006929,Greenwich 036,577500.0,E02006929,Greenwich Peninsula,Greenwich,1190.6
+343,E02006930,Greenwich 037,545000.0,E02006930,Greenwich East,Greenwich,745.0
+344,E02006931,Greenwich 038,650000.0,E02006931,Greenwich Town & Park,Greenwich,662.9
+345,E02000345,Hackney 001,490000.0,E02000345,Stamford Hill North,Hackney and City of London,805.9
+346,E02000346,Hackney 002,523000.0,E02000346,Woodberry Down & Manor House,Hackney and City of London,1418.6
+347,E02000347,Hackney 003,435000.0,E02000347,Stamford Hill West,Hackney and City of London,722.5
+348,E02000348,Hackney 004,356125.0,E02000348,Stamford Hill South,Hackney and City of London,552.4
+349,E02000350,Hackney 006,467500.0,E02000350,Stoke Newington East & Cazenove,Hackney and City of London,1123.8
+350,E02000351,Hackney 007,510000.0,E02000351,Brownswood,Hackney and City of London,751.0
+351,E02000352,Hackney 008,505000.0,E02000352,Clissold North,Hackney and City of London,677.5
+352,E02000353,Hackney 009,874500.0,E02000353,Stoke Newington North,Hackney and City of London,1039.0
+353,E02000354,Hackney 010,525000.0,E02000354,Hackney Downs,Hackney and City of London,1013.0
+354,E02000355,Hackney 011,755000.0,E02000355,Lower Clapton,Hackney and City of London,1187.9
+355,E02000356,Hackney 012,615000.0,E02000356,Clissold South,Hackney and City of London,715.2
+356,E02000357,Hackney 013,354000.0,E02000357,Hackney Marshes,Hackney and City of London,1129.3
+357,E02000358,Hackney 014,550000.0,E02000358,Stoke Newington South,Hackney and City of London,982.0
+358,E02000359,Hackney 015,777500.0,E02000359,Homerton North,Hackney and City of London,868.3
+359,E02000360,Hackney 016,438000.0,E02000360,Amhurst Road & Pembury Estate,Hackney and City of London,1103.3
+360,E02000361,Hackney 017,535000.0,E02000361,Hackney Central,Hackney and City of London,963.2
+361,E02000362,Hackney 018,450000.0,E02000362,Hackney Wick,Hackney and City of London,854.2
+362,E02000363,Hackney 019,401500.0,E02000363,Homerton South,Hackney and City of London,1069.2
+363,E02000364,Hackney 020,627250.0,E02000364,Dalston East,Hackney and City of London,850.7
+364,E02000365,Hackney 021,620000.0,E02000365,Dalston Kingsland & De Beauvoir,Hackney and City of London,968.5
+365,E02000366,Hackney 022,561500.0,E02000366,South Hackney,Hackney and City of London,959.7
+366,E02000367,Hackney 023,622750.0,E02000367,London Fields & Mare Street,Hackney and City of London,879.4
+367,E02000368,Hackney 024,510000.0,E02000368,Haggerston East,Hackney and City of London,977.4
+368,E02000369,Hackney 025,551500.0,E02000369,Haggerston West & Kingsland Basin,Hackney and City of London,926.3
+369,E02000370,Hackney 026,570000.0,E02000370,Hoxton & Wenlock,Hackney and City of London,944.3
+370,E02000371,Hackney 027,886500.0,E02000371,Shoreditch,Hackney and City of London,734.7
+371,E02006918,Hackney 028,380000.0,E02006918,Clapton Leaside,Hackney and City of London,783.1
+372,E02006921,Hackney 029,512500.0,E02006921,Upper Clapton,Hackney and City of London,784.7
+373,E02000372,Hammersmith and Fulham 001,675000.0,E02000372,Old Oak & Wormwood,Hammersmith and Fulham,1430.2
+374,E02000373,Hammersmith and Fulham 002,370000.0,E02000373,White City,Hammersmith and Fulham,1071.2
+375,E02000374,Hammersmith and Fulham 003,695000.0,E02000374,Wormholt Road,Hammersmith and Fulham,945.8
+376,E02000375,Hammersmith and Fulham 004,987500.0,E02000375,Shepherd's Bush North,Hammersmith and Fulham,839.6
+377,E02000376,Hammersmith and Fulham 005,420750.0,E02000376,Shepherd's Bush West,Hammersmith and Fulham,800.2
+378,E02000377,Hammersmith and Fulham 006,662500.0,E02000377,Askew,Hammersmith and Fulham,904.0
+379,E02000378,Hammersmith and Fulham 007,515000.0,E02000378,Shepherd's Bush South,Hammersmith and Fulham,804.5
+380,E02000379,Hammersmith and Fulham 008,580000.0,E02000379,Ravenscourt Park North,Hammersmith and Fulham,784.0
+381,E02000380,Hammersmith and Fulham 009,1125000.0,E02000380,Brackenbury,Hammersmith and Fulham,575.2
+382,E02000381,Hammersmith and Fulham 010,1000000.0,E02000381,Brook Green,Hammersmith and Fulham,517.3
+383,E02000382,Hammersmith and Fulham 011,624500.0,E02000382,Ravenscourt Park South,Hammersmith and Fulham,797.6
+384,E02000383,Hammersmith and Fulham 012,582000.0,E02000383,West Kensington,Hammersmith and Fulham,597.6
+385,E02000384,Hammersmith and Fulham 013,570000.0,E02000384,Hammersmith Broadway,Hammersmith and Fulham,872.1
+386,E02000385,Hammersmith and Fulham 014,640000.0,E02000385,Barons Court,Hammersmith and Fulham,494.0
+387,E02000386,Hammersmith and Fulham 015,580000.0,E02000386,North End,Hammersmith and Fulham,920.5
+388,E02000387,Hammersmith and Fulham 016,710000.0,E02000387,Lillie Road & Greyhound Road,Hammersmith and Fulham,969.9
+389,E02000388,Hammersmith and Fulham 017,717500.0,E02000388,Fulham Broadway,Hammersmith and Fulham,770.8
+390,E02000389,Hammersmith and Fulham 018,945000.0,E02000389,Fulham Reach,Hammersmith and Fulham,376.1
+391,E02000390,Hammersmith and Fulham 019,790000.0,E02000390,Fulham Aintree,Hammersmith and Fulham,760.0
+392,E02000391,Hammersmith and Fulham 020,1286713.0,E02000391,Parsons Green East & Eel Brook Common,Hammersmith and Fulham,569.9
+393,E02000392,Hammersmith and Fulham 021,950000.0,E02000392,Parsons Green West,Hammersmith and Fulham,674.9
+394,E02000393,Hammersmith and Fulham 022,855000.0,E02000393,Munster,Hammersmith and Fulham,506.1
+395,E02000394,Hammersmith and Fulham 023,750000.0,E02000394,Sands End & Chelsea Harbour,Hammersmith and Fulham,743.2
+396,E02000395,Hammersmith and Fulham 024,755000.0,E02000395,Fulham Palace & Hurlingham Park,Hammersmith and Fulham,655.9
+397,E02000396,Hammersmith and Fulham 025,872500.0,E02000396,South Park,Hammersmith and Fulham,847.5
+398,E02000397,Haringey 001,405000.0,E02000397,Bowes Park,Haringey,969.5
+399,E02000398,Haringey 002,345000.0,E02000398,Northumberland Park,Haringey,1195.2
+400,E02000400,Haringey 004,540000.0,E02000400,Bounds Green,Haringey,1074.3
+401,E02000401,Haringey 005,425000.0,E02000401,Roundway,Haringey,1241.7
+402,E02000402,Haringey 006,415000.0,E02000402,Tottenham Bruce Castle Park,Haringey,1406.5
+403,E02000403,Haringey 007,449950.0,E02000403,Wood Green North,Haringey,1144.0
+404,E02000404,Haringey 008,465000.0,E02000404,Scotch Estate,Haringey,1008.0
+405,E02000405,Haringey 009,922500.0,E02000405,Alexandra Park,Haringey,890.9
+406,E02000406,Haringey 010,500000.0,E02000406,Noel Park,Haringey,1365.7
+407,E02000407,Haringey 011,382000.0,E02000407,Bruce Grove North,Haringey,933.1
+408,E02000408,Haringey 012,390000.0,E02000408,Tottenham North West,Haringey,1018.2
+409,E02000409,Haringey 013,282000.0,E02000409,Lordship Lane & Broadwater Farm,Haringey,1299.5
+410,E02000410,Haringey 014,600000.0,E02000410,Muswell Hill North,Haringey,771.1
+411,E02000411,Haringey 015,400000.0,E02000411,Tottenham Lea Valley,Haringey,991.8
+412,E02000412,Haringey 016,415000.0,E02000412,Wood Green South,Haringey,1068.1
+413,E02000413,Haringey 017,700000.0,E02000413,Fortis Green & Coldfall,Haringey,1306.9
+414,E02000414,Haringey 018,507000.0,E02000414,Bruce Grove South,Haringey,874.7
+415,E02000415,Haringey 019,475000.0,E02000415,Downhills Park,Haringey,1139.2
+416,E02000416,Haringey 020,450000.0,E02000416,Hornsey East,Haringey,1180.2
+417,E02000417,Haringey 021,899625.0,E02000417,Muswell Hill South,Haringey,700.3
+418,E02000418,Haringey 022,833500.0,E02000418,Hornsey West,Haringey,823.8
+419,E02000419,Haringey 023,500000.0,E02000419,Harringay Ladder North,Haringey,924.9
+420,E02000420,Haringey 024,460000.0,E02000420,Tottenham Green West,Haringey,1502.8
+421,E02000421,Haringey 025,340000.0,E02000421,Tottenham Green East,Haringey,1416.8
+422,E02000422,Haringey 026,515000.0,E02000422,West Green & St Ann's,Haringey,1002.4
+423,E02000423,Haringey 027,585000.0,E02000423,Harringay East,Haringey,1300.8
+424,E02000424,Haringey 028,580000.0,E02000424,Hornsey Vale,Haringey,828.2
+425,E02000425,Haringey 029,650000.0,E02000425,South Tottenham,Haringey,684.3
+426,E02000426,Haringey 030,880000.0,E02000426,Highgate Wood,Haringey,769.4
+427,E02000427,Haringey 031,525000.0,E02000427,Harringay Ladder South,Haringey,1072.0
+428,E02000428,Haringey 032,466000.0,E02000428,Harringay Warehouse District & Vartry,Haringey,1321.7
+429,E02000429,Haringey 033,690000.0,E02000429,Crouch End West,Haringey,710.9
+430,E02000430,Haringey 034,532500.0,E02000430,Crouch End East,Haringey,763.6
+431,E02000431,Haringey 035,883750.0,E02000431,Highgate East,Haringey,229.4
+432,E02000432,Haringey 036,508750.0,E02000432,Stroud Green,Haringey,849.1
+433,E02006794,Haringey 037,395000.0,E02006794,White Hart Lane,Haringey,1072.8
+434,E02000433,Harrow 001,416250.0,E02000433,Stanmore Park,Harrow,874.8
+435,E02000434,Harrow 002,550000.0,E02000434,Canons Park,Harrow,947.0
+436,E02000435,Harrow 003,555000.0,E02000435,Stanmore Uxbridge Road,Harrow,810.5
+437,E02000436,Harrow 004,746000.0,E02000436,Hatch End North,Harrow,1208.7
+438,E02000437,Harrow 005,480000.0,E02000437,Harrow Weald,Harrow,898.1
+439,E02000438,Harrow 006,402500.0,E02000438,Hatch End South,Harrow,1002.2
+440,E02000439,Harrow 007,450000.0,E02000439,Edgware West,Harrow,1050.4
+441,E02000440,Harrow 008,555000.0,E02000440,Belmont,Harrow,819.8
+442,E02000441,Harrow 009,530000.0,E02000441,Pinner Green,Harrow,1029.9
+443,E02000442,Harrow 010,470000.0,E02000442,Queensbury East,Harrow,1144.6
+444,E02000443,Harrow 011,400000.0,E02000443,Wealdstone North,Harrow,939.3
+445,E02000444,Harrow 012,517500.0,E02000444,Queensbury West,Harrow,785.8
+446,E02000445,Harrow 013,392500.0,E02000445,Wealdstone South,Harrow,973.6
+447,E02000447,Harrow 015,600000.0,E02000447,Headstone Lane,Harrow,988.7
+448,E02000448,Harrow 016,710475.0,E02000448,Pinner Central,Harrow,648.2
+449,E02000449,Harrow 017,456750.0,E02000449,Kenton East,Harrow,860.5
+450,E02000451,Harrow 019,627500.0,E02000451,North Harrow,Harrow,794.6
+451,E02000452,Harrow 020,395000.0,E02000452,Greenhill North,Harrow,965.0
+452,E02000453,Harrow 021,377000.0,E02000453,Pinner Road,Harrow,726.7
+453,E02000454,Harrow 022,629000.0,E02000454,Pinner South,Harrow,727.2
+454,E02000455,Harrow 023,427500.0,E02000455,Greenhill South,Harrow,1037.1
+455,E02000456,Harrow 024,512500.0,E02000456,West Harrow,Harrow,878.9
+456,E02000457,Harrow 025,522500.0,E02000457,Rayners Lane North,Harrow,893.5
+457,E02000459,Harrow 027,327500.0,E02000459,South Harrow,Harrow,895.7
+458,E02000460,Harrow 028,399000.0,E02000460,Newton Farm,Harrow,1166.5
+459,E02000461,Harrow 029,497500.0,E02000461,Harrow-on-the-Hill,Harrow,733.9
+460,E02000462,Harrow 030,435000.0,E02000462,Alexandra Park,Harrow,866.8
+461,E02000463,Harrow 031,440500.0,E02000463,Earlsmead,Harrow,952.3
+462,E02006795,Harrow 032,482500.0,E02006795,Rayners Lane South,Harrow,910.7
+463,E02006882,Harrow 033,518500.0,E02006882,Kenton West,Harrow,1091.7
+464,E02000464,Havering 001,325000.0,E02000464,Dagnam Park & Noak Hill,Havering,1637.7
+465,E02000465,Havering 002,330000.0,E02000465,Petersfield Avenue & Duck Wood,Havering,1458.3
+466,E02000466,Havering 003,355000.0,E02000466,Havering-atte-Bower & Chase Cross,Havering,1411.6
+467,E02000467,Havering 004,298000.0,E02000467,Harold Hill East,Havering,1602.1
+468,E02000468,Havering 005,357500.0,E02000468,Collier Row & Park Farm,Havering,1454.1
+469,E02000469,Havering 006,318000.0,E02000469,Harold Hill West,Havering,1141.5
+470,E02000470,Havering 007,392500.0,E02000470,Harold Park & Harold Wood,Havering,1355.0
+471,E02000471,Havering 008,440000.0,E02000471,Rise Park,Havering,1553.0
+472,E02000472,Havering 009,380000.0,E02000472,Romford North,Havering,1220.9
+473,E02000473,Havering 010,385000.0,E02000473,Ardleigh Green,Havering,1321.9
+474,E02000474,Havering 011,354000.0,E02000474,Romford North West,Havering,1382.0
+475,E02000475,Havering 012,515000.0,E02000475,Gidea Park,Havering,1092.0
+476,E02000476,Havering 013,255850.0,E02000476,Central Romford,Havering,1078.3
+477,E02000477,Havering 014,452000.0,E02000477,Romford East,Havering,1139.5
+478,E02000478,Havering 015,716500.0,E02000478,Emerson Park,Havering,1394.1
+479,E02000479,Havering 016,336000.0,E02000479,Romford South,Havering,1361.7
+480,E02000480,Havering 017,343750.0,E02000480,Rush Green,Havering,1230.9
+481,E02000481,Havering 018,430000.0,E02000481,Cranham East,Havering,1231.5
+482,E02000482,Havering 019,558400.0,E02000482,Upminster North & Cranham West,Havering,1013.2
+483,E02000483,Havering 020,410000.0,E02000483,Hornchurch,Havering,1063.4
+484,E02000484,Havering 021,380000.0,E02000484,Hylands,Havering,1262.6
+485,E02000485,Havering 022,426500.0,E02000485,Upminster Bridge,Havering,1041.4
+486,E02000486,Havering 023,413500.0,E02000486,Elm Park East,Havering,1119.9
+487,E02000487,Havering 024,615000.0,E02000487,Upminster South & Corbets Tey,Havering,1520.8
+488,E02000488,Havering 025,425000.0,E02000488,Hacton,Havering,1515.4
+489,E02000489,Havering 026,370000.0,E02000489,Elm Park West,Havering,1320.2
+490,E02000490,Havering 027,340000.0,E02000490,South Hornchurch,Havering,1402.6
+491,E02000491,Havering 028,327750.0,E02000491,Hornchurch Marshes,Havering,1644.0
+492,E02000492,Havering 029,350000.0,E02000492,Rainham East & Wennington,Havering,1447.7
+493,E02000493,Havering 030,310000.0,E02000493,Rainham West,Havering,1247.1
+494,E02000494,Hillingdon 001,715000.0,E02000494,Ducks Hill,Hillingdon,859.4
+495,E02000495,Hillingdon 002,495000.0,E02000495,Northwood,Hillingdon,1045.5
+496,E02000496,Hillingdon 003,386750.0,E02000496,Harefield,Hillingdon,792.6
+497,E02000497,Hillingdon 004,555000.0,E02000497,Northwood Hills,Hillingdon,921.4
+498,E02000498,Hillingdon 005,525000.0,E02000498,West Ruislip North,Hillingdon,601.5
+499,E02000499,Hillingdon 006,535000.0,E02000499,Eastcote,Hillingdon,946.9
+500,E02000500,Hillingdon 007,630000.0,E02000500,Ruislip,Hillingdon,558.5
+501,E02000501,Hillingdon 008,500000.0,E02000501,Ruislip Manor,Hillingdon,1158.9
+502,E02000502,Hillingdon 009,440000.0,E02000502,West Ruislip South,Hillingdon,763.4
+503,E02000503,Hillingdon 010,465000.0,E02000503,Ruislip Gardens,Hillingdon,805.8
+504,E02000504,Hillingdon 011,615000.0,E02000504,Ickenham,Hillingdon,1409.6
+505,E02000506,Hillingdon 013,627000.0,E02000506,Uxbridge Common & Swakeleys,Hillingdon,869.3
+506,E02000507,Hillingdon 014,432500.0,E02000507,Hillingdon North East,Hillingdon,1053.5
+507,E02000508,Hillingdon 015,365000.0,E02000508,Uxbridge Central & Brunel,Hillingdon,856.2
+508,E02000509,Hillingdon 016,335000.0,E02000509,Uxbridge West,Hillingdon,697.5
+509,E02000510,Hillingdon 017,425000.0,E02000510,Hillingdon South,Hillingdon,986.7
+510,E02000511,Hillingdon 018,417000.0,E02000511,Charville,Hillingdon,1090.5
+511,E02000512,Hillingdon 019,377500.0,E02000512,Hillingdon Heath,Hillingdon,970.5
+512,E02000513,Hillingdon 020,355000.0,E02000513,Yeading North,Hillingdon,1317.2
+513,E02000514,Hillingdon 021,385000.0,E02000514,Yeading West,Hillingdon,1192.6
+514,E02000515,Hillingdon 022,341000.0,E02000515,Yiewsley West,Hillingdon,1040.2
+515,E02000516,Hillingdon 023,380000.0,E02000516,Yeading Brookside,Hillingdon,1327.6
+516,E02000517,Hillingdon 024,385000.0,E02000517,Hayes End,Hillingdon,1190.7
+517,E02000518,Hillingdon 025,425000.0,E02000518,Yiewsley East,Hillingdon,865.5
+518,E02000519,Hillingdon 026,425000.0,E02000519,Hayes Town North,Hillingdon,1300.4
+519,E02000520,Hillingdon 027,405000.0,E02000520,Hayes Town & Lake Farm,Hillingdon,1169.1
+520,E02000521,Hillingdon 028,365000.0,E02000521,West Drayton East,Hillingdon,1134.5
+521,E02000522,Hillingdon 029,395000.0,E02000522,West Drayton West,Hillingdon,881.5
+522,E02000523,Hillingdon 030,420000.0,E02000523,Hayes South,Hillingdon,1075.7
+523,E02000524,Hillingdon 031,400000.0,E02000524,"Heathrow, Hardmonsworth & Sipson",Hillingdon,949.4
+524,E02000525,Hillingdon 032,292500.0,E02000525,Harlington & Cranford Cross,Hillingdon,986.6
+525,E02006796,Hillingdon 033,430000.0,E02006796,South Ruislip,Hillingdon,926.6
+526,E02000526,Hounslow 001,975000.0,E02000526,Chiswick North East,Hounslow,695.4
+527,E02000528,Hounslow 003,440000.0,E02000528,Brentford East,Hounslow,1019.3
+528,E02000529,Hounslow 004,371000.0,E02000529,Heston North,Hounslow,1190.5
+529,E02000530,Hounslow 005,303000.0,E02000530,North Hyde & North Cranford,Hounslow,1368.4
+530,E02000531,Hounslow 006,487500.0,E02000531,Brentford Central,Hounslow,856.0
+531,E02000532,Hounslow 007,930000.0,E02000532,Chiswick South East,Hounslow,892.5
+532,E02000533,Hounslow 008,806000.0,E02000533,Chiswick South West,Hounslow,595.5
+533,E02000534,Hounslow 009,357000.0,E02000534,Brentford West & Osterley Park,Hounslow,1232.7
+534,E02000535,Hounslow 010,481250.0,E02000535,Heston West,Hounslow,1838.0
+535,E02000536,Hounslow 011,450000.0,E02000536,Heston Central & Lampton West,Hounslow,1634.1
+536,E02000537,Hounslow 012,460000.0,E02000537,Osterley & Lampton East,Hounslow,1159.0
+537,E02000538,Hounslow 013,399950.0,E02000538,Cranford,Hounslow,1484.5
+538,E02000539,Hounslow 014,415000.0,E02000539,Syon Green,Hounslow,1127.5
+539,E02000540,Hounslow 015,375000.0,E02000540,Spring Grove,Hounslow,1120.4
+540,E02000541,Hounslow 016,415000.0,E02000541,Hounslow Meadows,Hounslow,1561.4
+541,E02000542,Hounslow 017,280000.0,E02000542,Hounslow West,Hounslow,911.2
+542,E02000543,Hounslow 018,370000.0,E02000543,Hounslow High Street,Hounslow,1108.3
+543,E02000544,Hounslow 019,465000.0,E02000544,Hounslow East,Hounslow,1620.6
+544,E02000545,Hounslow 020,542500.0,E02000545,Isleworth & Ivybridge,Hounslow,1074.8
+545,E02000546,Hounslow 021,380000.0,E02000546,Hounslow Heath,Hounslow,1162.0
+546,E02000547,Hounslow 022,346000.0,E02000547,North Feltham & Hatton,Hounslow,1054.7
+547,E02000548,Hounslow 023,330000.0,E02000548,Bedfont,Hounslow,1201.4
+548,E02000549,Hounslow 024,380000.0,E02000549,Feltham East,Hounslow,1123.1
+549,E02000550,Hounslow 025,318100.0,E02000550,Feltham Central,Hounslow,928.1
+550,E02000551,Hounslow 026,325000.0,E02000551,Hanworth North,Hounslow,1505.0
+551,E02000552,Hounslow 027,320000.0,E02000552,Lower Feltham,Hounslow,1039.6
+552,E02000553,Hounslow 028,355000.0,E02000553,Hanworth South,Hounslow,844.0
+553,E02006792,Hounslow 029,533502.0,E02006792,Chiswick Park,Hounslow,604.0
+554,E02000554,Islington 001,530500.0,E02000554,Highcroft & Holly Park,Islington,817.1
+555,E02000555,Islington 002,535000.0,E02000555,Archway East,Islington,989.8
+556,E02000556,Islington 003,464000.0,E02000556,Tollington,Islington,1020.0
+557,E02000557,Islington 004,500000.0,E02000557,Archway West,Islington,981.9
+558,E02000558,Islington 005,463500.0,E02000558,Finsbury Park West,Islington,857.5
+559,E02000559,Islington 006,750000.0,E02000559,Gillespie Road,Islington,781.8
+560,E02000560,Islington 007,520000.0,E02000560,Holloway Nag's Head,Islington,769.6
+561,E02000561,Islington 008,676000.0,E02000561,Tufnell Park East,Islington,775.2
+562,E02000562,Islington 009,626250.0,E02000562,Highbury,Islington,751.0
+563,E02000563,Islington 010,470500.0,E02000563,Hilldrop,Islington,1025.9
+564,E02000564,Islington 011,475000.0,E02000564,Lower Holloway,Islington,730.2
+565,E02000565,Islington 012,553750.0,E02000565,Newington Green,Islington,849.6
+566,E02000566,Islington 013,700000.0,E02000566,Highbury Fields,Islington,649.1
+567,E02000567,Islington 014,691000.0,E02000567,Canonbury East & Mildmay Park,Islington,938.4
+568,E02000568,Islington 015,570000.0,E02000568,Caledonian Road,Islington,1039.7
+569,E02000569,Islington 016,647500.0,E02000569,Islington North & Canonbury West,Islington,777.7
+570,E02000570,Islington 017,860000.0,E02000570,Barnsbury East,Islington,611.1
+571,E02000571,Islington 018,558625.0,E02000571,Islington East & Arlington,Islington,642.5
+572,E02000572,Islington 019,517500.0,E02000572,Barnsbury West,Islington,531.5
+573,E02000573,Islington 020,810000.0,E02000573,Angel,Islington,911.0
+574,E02000574,Islington 021,635000.0,E02000574,King's Cross & Pentonville,Islington,552.4
+575,E02000575,Islington 022,710000.0,E02000575,Clerkenwell,Islington,635.7
+576,E02000576,Islington 023,850000.0,E02000576,Old Street & St Luke's,Islington,690.8
+577,E02000577,Kensington and Chelsea 001,485000.0,E02000577,Golborne & Swinbrook,Kensington and Chelsea,1371.3
+578,E02000578,Kensington and Chelsea 002,,E02000578,Ladbroke Grove,Kensington and Chelsea,1187.2
+579,E02000579,Kensington and Chelsea 003,885000.0,E02000579,North Kensington,Kensington and Chelsea,844.2
+580,E02000580,Kensington and Chelsea 004,768750.0,E02000580,Portobello,Kensington and Chelsea,947.3
+581,E02000581,Kensington and Chelsea 005,605000.0,E02000581,Notting Dale,Kensington and Chelsea,1130.8
+582,E02000582,Kensington and Chelsea 006,1175000.0,E02000582,Notting Hill Gate,Kensington and Chelsea,439.3
+583,E02000583,Kensington and Chelsea 007,1525000.0,E02000583,Notting Hill West,Kensington and Chelsea,375.1
+584,E02000584,Kensington and Chelsea 008,2039000.0,E02000584,Notting Hill South,Kensington and Chelsea,379.1
+585,E02000585,Kensington and Chelsea 009,1287500.0,E02000585,Holland Park,Kensington and Chelsea,600.0
+586,E02000586,Kensington and Chelsea 010,1525000.0,E02000586,Queen's Gate,Kensington and Chelsea,387.2
+587,E02000587,Kensington and Chelsea 011,1400000.0,E02000587,Kensington Abingdon,Kensington and Chelsea,606.7
+588,E02000588,Kensington and Chelsea 012,2150000.0,E02000588,Hans Town,Kensington and Chelsea,461.7
+589,E02000589,Kensington and Chelsea 013,1100000.0,E02000589,Kensington Gardens,Kensington and Chelsea,483.9
+590,E02000590,Kensington and Chelsea 014,718500.0,E02000590,Brompton,Kensington and Chelsea,534.9
+591,E02000591,Kensington and Chelsea 015,960000.0,E02000591,Earl's Court,Kensington and Chelsea,537.3
+592,E02000592,Kensington and Chelsea 016,1525000.0,E02000592,South Kensington,Kensington and Chelsea,486.0
+593,E02000593,Kensington and Chelsea 017,875000.0,E02000593,West Brompton,Kensington and Chelsea,462.9
+594,E02000594,Kensington and Chelsea 018,1445100.0,E02000594,Chelsea Manor & Royal Hospital,Kensington and Chelsea,464.5
+595,E02000595,Kensington and Chelsea 019,1587500.0,E02000595,Chelsea Riverside East,Kensington and Chelsea,656.5
+596,E02000596,Kensington and Chelsea 020,1225000.0,E02000596,Fulham Road,Kensington and Chelsea,453.5
+597,E02000597,Kensington and Chelsea 021,775000.0,E02000597,Chelsea Riverside West,Kensington and Chelsea,969.2
+598,E02000598,Kingston upon Thames 001,725000.0,E02000598,Tudor Drive,Kingston upon Thames,664.4
+599,E02000599,Kingston upon Thames 002,985000.0,E02000599,Kingston Vale & Coombe Hill,Kingston upon Thames,787.1
+600,E02000600,Kingston upon Thames 003,566250.0,E02000600,Kingston Hill,Kingston upon Thames,617.5
+601,E02000601,Kingston upon Thames 004,600000.0,E02000601,Kingston North,Kingston upon Thames,489.9
+602,E02000602,Kingston upon Thames 005,433500.0,E02000602,Kingston East & Norbiton West,Kingston upon Thames,773.9
+603,E02000603,Kingston upon Thames 006,475000.0,E02000603,Norbiton East,Kingston upon Thames,1023.4
+604,E02000604,Kingston upon Thames 007,500000.0,E02000604,New Malden East,Kingston upon Thames,941.6
+605,E02000605,Kingston upon Thames 008,573000.0,E02000605,New Malden West,Kingston upon Thames,599.2
+606,E02000606,Kingston upon Thames 009,420000.0,E02000606,Kingston Riverside,Kingston upon Thames,766.5
+607,E02000607,Kingston upon Thames 010,575000.0,E02000607,Berrylands North,Kingston upon Thames,645.2
+608,E02000608,Kingston upon Thames 011,420064.0,E02000608,Surbiton North,Kingston upon Thames,502.7
+609,E02000609,Kingston upon Thames 012,600000.0,E02000609,Malden Manor,Kingston upon Thames,1003.3
+610,E02000610,Kingston upon Thames 013,393500.0,E02000610,Surbiton South,Kingston upon Thames,880.2
+611,E02000611,Kingston upon Thames 014,655000.0,E02000611,Berrylands South,Kingston upon Thames,898.4
+612,E02000612,Kingston upon Thames 015,550000.0,E02000612,Motspur Park,Kingston upon Thames,908.2
+613,E02000613,Kingston upon Thames 016,474250.0,E02000613,Southborough,Kingston upon Thames,702.5
+614,E02000614,Kingston upon Thames 017,420000.0,E02000614,Tolworth,Kingston upon Thames,1222.0
+615,E02000615,Kingston upon Thames 018,416250.0,E02000615,Hook,Kingston upon Thames,1076.9
+616,E02000616,Kingston upon Thames 019,397500.0,E02000616,Chessington North,Kingston upon Thames,1183.1
+617,E02000617,Kingston upon Thames 020,390000.0,E02000617,Chessington South & Malden Rushett,Kingston upon Thames,1090.7
+618,E02000619,Lambeth 002,500000.0,E02000619,Lambeth Walk & North Kennington,Lambeth,910.3
+619,E02000620,Lambeth 003,567500.0,E02000620,Kennington West & Vauxhall North,Lambeth,885.0
+620,E02000621,Lambeth 004,800000.0,E02000621,Vauxhall South,Lambeth,707.9
+621,E02000622,Lambeth 005,467500.0,E02000622,Oval,Lambeth,529.4
+622,E02000623,Lambeth 006,400000.0,E02000623,Stockwell North,Lambeth,1111.2
+623,E02000624,Lambeth 007,445250.0,E02000624,Stockwell East,Lambeth,1174.5
+624,E02000625,Lambeth 008,460000.0,E02000625,Stockwell West,Lambeth,1214.3
+625,E02000626,Lambeth 009,575000.0,E02000626,Loughborough Road,Lambeth,913.2
+626,E02000627,Lambeth 010,500000.0,E02000627,Stockwell South,Lambeth,1068.9
+627,E02000628,Lambeth 011,400000.0,E02000628,Brixton North,Lambeth,1238.6
+628,E02000629,Lambeth 012,550000.0,E02000629,Clapham North,Lambeth,973.8
+629,E02000630,Lambeth 013,552500.0,E02000630,Clapham Old Town,Lambeth,560.0
+630,E02000631,Lambeth 014,620000.0,E02000631,Herne Hill East,Lambeth,1058.0
+631,E02000632,Lambeth 015,572500.0,E02000632,Acre Lane,Lambeth,618.6
+632,E02000633,Lambeth 016,517500.0,E02000633,Brixton Central,Lambeth,462.2
+633,E02000634,Lambeth 017,600000.0,E02000634,Clapham Common North,Lambeth,797.6
+634,E02000635,Lambeth 018,585000.0,E02000635,Poets' Corner & Brockwell Park,Lambeth,731.9
+635,E02000636,Lambeth 019,692500.0,E02000636,Clapham South,Lambeth,564.8
+636,E02000637,Lambeth 020,601375.0,E02000637,Brixton Hill East,Lambeth,693.3
+637,E02000638,Lambeth 021,480000.0,E02000638,Brixton Hilll West,Lambeth,1052.6
+638,E02000639,Lambeth 022,438000.0,E02000639,Clapham Park East & Streatham Hill North,Lambeth,1160.9
+639,E02000640,Lambeth 023,685000.0,E02000640,Clapham Park West,Lambeth,789.8
+640,E02000641,Lambeth 024,415000.0,E02000641,Tulse Hill,Lambeth,1105.2
+641,E02000642,Lambeth 025,535000.0,E02000642,West Dulwich,Lambeth,882.6
+642,E02000643,Lambeth 026,498306.0,E02000643,Streatham Hill,Lambeth,1027.6
+643,E02000644,Lambeth 027,520000.0,E02000644,Leigham Vale & Royal Circus,Lambeth,791.0
+644,E02000645,Lambeth 028,450000.0,E02000645,West Norwood East,Lambeth,914.4
+645,E02000646,Lambeth 029,447500.0,E02000646,Streatham Central,Lambeth,781.2
+646,E02000647,Lambeth 030,550000.0,E02000647,West Norwood West & Streatham East,Lambeth,624.8
+647,E02000648,Lambeth 031,447500.0,E02000648,West Norwood South,Lambeth,1389.6
+648,E02000649,Lambeth 032,450500.0,E02000649,Streatham Green,Lambeth,765.5
+649,E02000650,Lambeth 033,445000.0,E02000650,Gipsy Hill,Lambeth,1025.9
+650,E02000651,Lambeth 034,450000.0,E02000651,Streatham Common,Lambeth,1212.3
+651,E02000652,Lambeth 035,475000.0,E02000652,Streatham Vale,Lambeth,1119.6
+652,E02006801,Lambeth 036,1068600.0,E02006801,"Lambeth North, Waterloo & South Bank",Lambeth,626.5
+653,E02000653,Lewisham 001,447000.0,E02000653,Silwood & Pepys,Lewisham,1130.2
+654,E02000654,Lewisham 002,410000.0,E02000654,Deptford North,Lewisham,1305.3
+655,E02000655,Lewisham 003,430000.0,E02000655,New Cross Gate,Lewisham,1137.9
+656,E02000657,Lewisham 005,435000.0,E02000657,New Cross South,Lewisham,760.8
+657,E02000658,Lewisham 006,440000.0,E02000658,Telegraph Hill,Lewisham,1035.0
+658,E02000659,Lewisham 007,530000.0,E02000659,Blackheath West,Lewisham,964.2
+659,E02000660,Lewisham 008,428875.0,E02000660,Brockley East & St Johns,Lewisham,833.6
+660,E02000661,Lewisham 009,570000.0,E02000661,Blackheath Village,Lewisham,711.6
+661,E02000662,Lewisham 010,450000.0,E02000662,Brockley West,Lewisham,746.1
+662,E02000663,Lewisham 011,460000.0,E02000663,Loampit & Hilly Fields,Lewisham,712.7
+663,E02000664,Lewisham 012,392500.0,E02000664,Lewisham Central & Park,Lewisham,1028.5
+664,E02000665,Lewisham 013,566625.0,E02000665,Manor House,Lewisham,913.9
+665,E02000666,Lewisham 014,580000.0,E02000666,Ladywell,Lewisham,1136.7
+666,E02000667,Lewisham 015,642475.0,E02000667,Crofton Park,Lewisham,980.7
+667,E02000668,Lewisham 016,475000.0,E02000668,Lee,Lewisham,1002.9
+668,E02000669,Lewisham 017,392500.0,E02000669,Hither Green,Lewisham,1067.8
+669,E02000670,Lewisham 018,390000.0,E02000670,Catford East & Mountsfield Park,Lewisham,1128.5
+670,E02000671,Lewisham 019,512500.0,E02000671,Honor Oak,Lewisham,787.1
+671,E02000672,Lewisham 020,382000.0,E02000672,Catford Bridge,Lewisham,943.9
+672,E02000673,Lewisham 021,447500.0,E02000673,Forest Hill West,Lewisham,830.3
+673,E02000674,Lewisham 022,480000.0,E02000674,Corbett Estate,Lewisham,1058.5
+674,E02000675,Lewisham 023,383750.0,E02000675,Grove Park & Lee South,Lewisham,912.0
+675,E02000676,Lewisham 024,500000.0,E02000676,Forest Hill East,Lewisham,1065.0
+676,E02000677,Lewisham 025,475000.0,E02000677,Culverley Green,Lewisham,1083.2
+677,E02000678,Lewisham 026,355000.0,E02000678,Further Green,Lewisham,1192.0
+678,E02000679,Lewisham 027,370000.0,E02000679,Perry Vale,Lewisham,1131.0
+679,E02000680,Lewisham 028,395000.0,E02000680,Upper Sydenham,Lewisham,904.4
+680,E02000681,Lewisham 029,442500.0,E02000681,Bellingham & Perry Hill,Lewisham,1257.6
+681,E02000682,Lewisham 030,430000.0,E02000682,Forster Park & Southend,Lewisham,1343.8
+682,E02000683,Lewisham 031,309343.0,E02000683,Chinbrook,Lewisham,1146.1
+683,E02000685,Lewisham 033,425000.0,E02000685,Sydenham Wells,Lewisham,870.6
+684,E02000686,Lewisham 034,294500.0,E02000686,Beckenham Hill,Lewisham,1160.8
+685,E02000687,Lewisham 035,440000.0,E02000687,Lower Sydenham,Lewisham,1047.7
+686,E02006783,Lewisham 037,340000.0,E02006783,Downham East,Lewisham,1174.3
+687,E02006784,Lewisham 038,330000.0,E02006784,Downham West,Lewisham,1509.2
+688,E02006798,Lewisham 039,297000.0,E02006798,New Cross & Deptford South,Lewisham,1250.9
+689,E02000689,Merton 001,921750.0,E02000689,Wimbledon Park & Durnsford Road,Merton,617.9
+690,E02000690,Merton 002,1452500.0,E02000690,Wimbledon Common,Merton,754.0
+691,E02000691,Merton 003,817250.0,E02000691,Wimbledon Broadway North,Merton,966.8
+692,E02000692,Merton 004,642500.0,E02000692,Wimbledon Hill,Merton,719.9
+693,E02000693,Merton 005,447000.0,E02000693,Colliers Wood,Merton,682.0
+694,E02000694,Merton 006,705000.0,E02000694,South Wimbledon,Merton,1009.9
+695,E02000695,Merton 007,535000.0,E02000695,Graveney,Merton,1414.8
+696,E02000696,Merton 008,391000.0,E02000696,Lavender Park,Merton,972.2
+697,E02000697,Merton 009,572000.0,E02000697,Wimbledon Broadway South,Merton,532.0
+698,E02000698,Merton 010,902251.0,E02000698,Cottenham Park,Merton,898.2
+699,E02000699,Merton 011,625000.0,E02000699,Wimbledon Chase,Merton,494.9
+700,E02000700,Merton 012,356000.0,E02000700,Merton Church Road & Phipps Bridge,Merton,786.1
+701,E02000701,Merton 013,413000.0,E02000701,Mitcham East,Merton,1791.0
+702,E02000702,Merton 014,390000.0,E02000702,Lonesome,Merton,995.9
+703,E02000703,Merton 015,670000.0,E02000703,Merton Park,Merton,981.5
+704,E02000704,Merton 016,515000.0,E02000704,Raynes Park,Merton,696.6
+705,E02000705,Merton 017,405500.0,E02000705,Rowan Road,Merton,1044.0
+706,E02000706,Merton 018,335000.0,E02000706,Mitcham West,Merton,1525.7
+707,E02000707,Merton 019,395000.0,E02000707,Pollards Hill,Merton,1126.6
+708,E02000708,Merton 020,529000.0,E02000708,West Barnes,Merton,934.5
+709,E02000709,Merton 021,553750.0,E02000709,Cannon Hill,Merton,1281.7
+710,E02000710,Merton 022,331500.0,E02000710,Mitcham South,Merton,1341.1
+711,E02000711,Merton 023,377500.0,E02000711,Morden Central,Merton,1219.4
+712,E02000712,Merton 024,365500.0,E02000712,St Helier North,Merton,1288.5
+713,E02000713,Merton 025,420000.0,E02000713,Lower Morden,Merton,1565.9
+714,E02000714,Newham 001,475000.0,E02000714,Forest Gate North,Newham,1819.3
+715,E02000715,Newham 002,385000.0,E02000715,Little Ilford West,Newham,978.0
+716,E02000716,Newham 003,495000.0,E02000716,Manor Park North,Newham,1151.5
+717,E02000717,Newham 004,360000.0,E02000717,Manor Park South,Newham,1448.6
+718,E02000718,Newham 005,332500.0,E02000718,Little Ilford East,Newham,1572.8
+719,E02000719,Newham 006,445000.0,E02000719,Forest Gate West,Newham,1321.1
+720,E02000720,Newham 007,570000.0,E02000720,Forest Gate East,Newham,1376.0
+721,E02000721,Newham 008,400000.0,E02000721,Forest Gate South,Newham,1878.0
+722,E02000722,Newham 009,432500.0,E02000722,Stratford East,Newham,1523.0
+723,E02000723,Newham 010,400300.0,E02000723,East Ham North,Newham,1665.5
+724,E02000724,Newham 011,402500.0,E02000724,Plashet East,Newham,1302.1
+725,E02000725,Newham 012,410000.0,E02000725,Stratford Central,Newham,1221.3
+726,E02000726,Newham 013,596325.0,E02000726,Olympic Park & Mill Meads,Newham,912.8
+727,E02000727,Newham 014,395000.0,E02000727,Plashet West,Newham,1870.2
+728,E02000728,Newham 015,397500.0,E02000728,Wallend North,Newham,1488.5
+729,E02000729,Newham 016,437500.0,E02000729,West Ham Park,Newham,1516.8
+730,E02000730,Newham 017,388248.0,E02000730,Upton Park,Newham,2037.0
+731,E02000731,Newham 018,370770.0,E02000731,East Ham Central,Newham,1338.6
+732,E02000732,Newham 019,339000.0,E02000732,East Ham West,Newham,1420.5
+733,E02000733,Newham 020,375500.0,E02000733,West Ham & Stratford Park,Newham,1637.6
+734,E02000734,Newham 021,425000.0,E02000734,Plaistow North,Newham,1332.5
+735,E02000735,Newham 022,350250.0,E02000735,Plaistow North East,Newham,1406.0
+736,E02000736,Newham 023,354500.0,E02000736,Wallend South,Newham,1656.4
+737,E02000737,Newham 024,380000.0,E02000737,East Ham South,Newham,1538.6
+738,E02000738,Newham 025,382500.0,E02000738,East Ham South West,Newham,1356.0
+739,E02000739,Newham 026,348250.0,E02000739,Plaistow Park,Newham,1488.2
+740,E02000740,Newham 027,360000.0,E02000740,Canning Town North,Newham,1149.3
+741,E02000741,Newham 028,365000.0,E02000741,Plaistow South,Newham,1605.4
+742,E02000742,Newham 029,355000.0,E02000742,Lonsdale Avenue,Newham,1559.5
+743,E02000743,Newham 030,360000.0,E02000743,Canning Town Central,Newham,1227.9
+744,E02000744,Newham 031,337500.0,E02000744,Canning Town East,Newham,1209.6
+745,E02000745,Newham 032,339750.0,E02000745,Beckton North,Newham,1433.6
+746,E02000746,Newham 033,383250.0,E02000746,Beckton,Newham,1242.8
+747,E02000747,Newham 034,393500.0,E02000747,Canning Town South & Bow Creek,Newham,894.1
+748,E02000748,Newham 035,346000.0,E02000748,Beckton Park,Newham,1915.1
+749,E02000749,Newham 036,344576.0,E02000749,Custom House,Newham,1411.9
+750,E02000750,Newham 037,428188.0,E02000750,Royal Docks & North Woolwich,Newham,1230.7
+751,E02000751,Redbridge 001,600000.0,E02000751,Woodford Wells,Redbridge,1469.5
+752,E02000752,Redbridge 002,335000.0,E02000752,Hainault East,Redbridge,1749.2
+753,E02000753,Redbridge 003,355000.0,E02000753,Hainault West,Redbridge,1608.7
+754,E02000754,Redbridge 004,515000.0,E02000754,Woodford Green,Redbridge,1369.5
+755,E02000755,Redbridge 005,432500.0,E02000755,Woodford Bridge,Redbridge,1180.0
+756,E02000756,Redbridge 006,417498.0,E02000756,Fairlop,Redbridge,1284.3
+757,E02000757,Redbridge 007,480000.0,E02000757,South Woodford High Road,Redbridge,989.2
+758,E02000758,Redbridge 008,482500.0,E02000758,Clayhall North,Redbridge,1312.3
+759,E02000759,Redbridge 009,512500.0,E02000759,Roding,Redbridge,1509.3
+760,E02000760,Redbridge 010,467000.0,E02000760,Barkingside North,Redbridge,1522.9
+761,E02000762,Redbridge 012,482500.0,E02000762,Barkingside West,Redbridge,1998.2
+762,E02000763,Redbridge 013,432000.0,E02000763,Aldborough Hatch,Redbridge,1782.7
+763,E02000764,Redbridge 014,530000.0,E02000764,Snaresbrook,Redbridge,958.1
+764,E02000765,Redbridge 015,482500.0,E02000765,Barkingside East,Redbridge,1722.7
+765,E02000767,Redbridge 017,461000.0,E02000767,Newbury Park,Redbridge,1376.9
+766,E02000768,Redbridge 018,810000.0,E02000768,Wanstead,Redbridge,1476.9
+767,E02000769,Redbridge 019,392500.0,E02000769,Chadwell Heath West,Redbridge,1410.1
+768,E02000770,Redbridge 020,325000.0,E02000770,Seven Kings Park,Redbridge,1416.4
+769,E02000772,Redbridge 022,420000.0,E02000772,Goodmayes North,Redbridge,1557.3
+770,E02000773,Redbridge 023,435500.0,E02000773,Ley Street,Redbridge,1623.8
+771,E02000774,Redbridge 024,420000.0,E02000774,Seven Kings Meads Lane,Redbridge,1494.9
+772,E02000776,Redbridge 026,370000.0,E02000776,Ilford North East,Redbridge,1817.1
+773,E02000777,Redbridge 027,700000.0,E02000777,Wanstead Flats,Redbridge,1178.6
+774,E02000779,Redbridge 029,238000.0,E02000779,Ilford North West,Redbridge,1568.5
+775,E02000780,Redbridge 030,250000.0,E02000780,Ilford South East,Redbridge,1510.7
+776,E02000781,Redbridge 031,428500.0,E02000781,South Park,Redbridge,2100.4
+777,E02000782,Redbridge 032,273750.0,E02000782,Ilford South West,Redbridge,1331.0
+778,E02000783,Redbridge 033,313750.0,E02000783,Loxford Park,Redbridge,1420.7
+779,E02006800,Redbridge 034,370000.0,E02006800,Goodmayes South,Redbridge,1684.2
+780,E02006924,Redbridge 035,495025.0,E02006924,Valentines Park & Cranbrook,Redbridge,1576.2
+781,E02006925,Redbridge 036,550000.0,E02006925,Clayhall South,Redbridge,1460.6
+782,E02000784,Richmond upon Thames 001,1230000.0,E02000784,North Barnes,Richmond upon Thames,592.8
+783,E02000785,Richmond upon Thames 002,830000.0,E02000785,Kew Gardens,Richmond upon Thames,288.0
+784,E02000786,Richmond upon Thames 003,880000.0,E02000786,Mortlake & South Barnes,Richmond upon Thames,672.1
+785,E02000787,Richmond upon Thames 004,613750.0,E02000787,North Sheen,Richmond upon Thames,685.7
+786,E02000788,Richmond upon Thames 005,932250.0,E02000788,East Sheen North,Richmond upon Thames,681.0
+787,E02000789,Richmond upon Thames 006,697500.0,E02000789,Queen's Road,Richmond upon Thames,724.6
+788,E02000790,Richmond upon Thames 007,885000.0,E02000790,St Margarets,Richmond upon Thames,554.5
+789,E02000791,Richmond upon Thames 008,865000.0,E02000791,Richmond Central,Richmond upon Thames,313.7
+790,E02000792,Richmond upon Thames 009,809000.0,E02000792,Twickenham Marble Hill,Richmond upon Thames,598.6
+791,E02000793,Richmond upon Thames 010,490000.0,E02000793,Whitton,Richmond upon Thames,815.4
+792,E02000794,Richmond upon Thames 011,565000.0,E02000794,Twickenham North,Richmond upon Thames,595.2
+793,E02000795,Richmond upon Thames 012,1360000.0,E02000795,"Richmond Park, Sheen Gate & Petersham",Richmond upon Thames,542.8
+794,E02000796,Richmond upon Thames 013,478000.0,E02000796,Heathfield,Richmond upon Thames,1037.9
+795,E02000797,Richmond upon Thames 014,566250.0,E02000797,Twickenham Town,Richmond upon Thames,562.7
+796,E02000798,Richmond upon Thames 015,535000.0,E02000798,Twickenham West,Richmond upon Thames,640.3
+797,E02000799,Richmond upon Thames 016,776053.0,E02000799,Strawberry Hill,Richmond upon Thames,770.6
+798,E02000800,Richmond upon Thames 017,625000.0,E02000800,Ham,Richmond upon Thames,1166.0
+799,E02000801,Richmond upon Thames 018,656000.0,E02000801,Teddington North,Richmond upon Thames,594.8
+800,E02000802,Richmond upon Thames 019,540000.0,E02000802,Hampton Hill,Richmond upon Thames,562.5
+801,E02000803,Richmond upon Thames 020,410000.0,E02000803,Nursery Lands & Hampton North,Richmond upon Thames,760.3
+802,E02000804,Richmond upon Thames 021,640000.0,E02000804,Teddington Central,Richmond upon Thames,490.8
+803,E02000805,Richmond upon Thames 022,599975.0,E02000805,Hampton Wick & Teddington East,Richmond upon Thames,533.6
+804,E02000806,Richmond upon Thames 023,611250.0,E02000806,Hampton Village,Richmond upon Thames,581.6
+805,E02000807,Southwark 001,495000.0,E02000807,Rotherhithe,Southwark,925.4
+806,E02000808,Southwark 002,710400.0,E02000808,Borough & Southwark Street,Southwark,724.6
+807,E02000809,Southwark 003,740000.0,E02000809,Bermondsey North,Southwark,586.8
+808,E02000810,Southwark 004,442750.0,E02000810,Bermondsey East,Southwark,866.0
+809,E02000812,Southwark 006,536500.0,E02000812,London Bridge & Bermondsey West,Southwark,758.1
+810,E02000813,Southwark 007,461300.0,E02000813,Canada Water,Southwark,856.0
+811,E02000814,Southwark 008,482750.0,E02000814,Surrey Quays,Southwark,1139.4
+812,E02000815,Southwark 009,695000.0,E02000815,Elephant & Castle,Southwark,620.8
+813,E02000816,Southwark 010,425000.0,E02000816,South Bermondsey Central,Southwark,1104.5
+814,E02000817,Southwark 011,294000.0,E02000817,South Bermondsey East,Southwark,1715.4
+815,E02000818,Southwark 012,590000.0,E02000818,Walworth North,Southwark,1186.8
+816,E02000819,Southwark 013,370000.0,E02000819,South Bermondsey West,Southwark,1427.3
+817,E02000820,Southwark 014,456250.0,E02000820,Kennington East,Southwark,836.9
+818,E02000821,Southwark 015,417500.0,E02000821,Burgess Park,Southwark,844.0
+819,E02000822,Southwark 016,336250.0,E02000822,Walworth South,Southwark,1066.6
+820,E02000823,Southwark 017,512500.0,E02000823,Burgess Park West & John Ruskin Street,Southwark,1017.1
+821,E02000824,Southwark 018,374250.0,E02000824,Peckham Park Road,Southwark,1102.4
+822,E02000825,Southwark 019,437000.0,E02000825,Peckham North West,Southwark,1176.6
+823,E02000826,Southwark 020,410000.0,E02000826,Camberwell North,Southwark,1118.8
+824,E02000827,Southwark 021,475000.0,E02000827,Camberwell Green,Southwark,889.9
+825,E02000828,Southwark 022,424500.0,E02000828,Peckham North,Southwark,1324.3
+826,E02000829,Southwark 023,480000.0,E02000829,Queens Road Peckham,Southwark,1105.3
+827,E02000830,Southwark 024,577500.0,E02000830,Camberwell South,Southwark,873.7
+828,E02000831,Southwark 025,705000.0,E02000831,Peckham Rye,Southwark,762.8
+829,E02000832,Southwark 026,500000.0,E02000832,Nunhead North,Southwark,957.7
+830,E02000833,Southwark 027,406250.0,E02000833,North Dulwich,Southwark,839.3
+831,E02000834,Southwark 028,637500.0,E02000834,Peckham Rye Common,Southwark,831.0
+832,E02000835,Southwark 029,620000.0,E02000835,Nunhead South & Newlands,Southwark,897.1
+833,E02000836,Southwark 030,733500.0,E02000836,East Dulwich,Southwark,806.2
+834,E02000837,Southwark 031,1325000.0,E02000837,Herne Hill & Dulwich Park,Southwark,1019.3
+835,E02000838,Southwark 032,608251.0,E02000838,Dulwich Hill,Southwark,825.2
+836,E02000839,Southwark 033,470000.0,E02000839,Sydenham Hill,Southwark,882.2
+837,E02006802,Southwark 034,573750.0,E02006802,Southwark St George's,Southwark,1174.9
+838,E02000840,Sutton 001,338500.0,E02000840,Middleton Circle,Sutton,1484.1
+839,E02000841,Sutton 002,345000.0,E02000841,St Helier South,Sutton,1210.8
+840,E02000842,Sutton 003,452500.0,E02000842,Stonecot,Sutton,1494.6
+841,E02000843,Sutton 004,356500.0,E02000843,Hackbridge,Sutton,1295.1
+842,E02000844,Sutton 005,370000.0,E02000844,The Wrythe,Sutton,1345.9
+843,E02000845,Sutton 006,415612.0,E02000845,Worcester Park East,Sutton,950.6
+844,E02000846,Sutton 007,445000.0,E02000846,Sutton North,Sutton,1037.6
+845,E02000847,Sutton 008,472500.0,E02000847,North Cheam West,Sutton,1071.0
+846,E02000848,Sutton 009,442500.0,E02000848,North Cheam East,Sutton,966.8
+847,E02000849,Sutton 010,405000.0,E02000849,Wallington North,Sutton,1042.7
+848,E02000850,Sutton 011,371000.0,E02000850,Beddington,Sutton,1398.3
+849,E02000851,Sutton 012,286250.0,E02000851,Sutton Central,Sutton,1353.3
+850,E02000852,Sutton 013,400000.0,E02000852,Sutton East,Sutton,1379.6
+851,E02000853,Sutton 014,386750.0,E02000853,Sutton West,Sutton,1061.5
+852,E02000854,Sutton 015,415000.0,E02000854,Carshalton Village,Sutton,1060.5
+853,E02000855,Sutton 016,544000.0,E02000855,Cheam High Street,Sutton,1026.2
+854,E02000856,Sutton 017,372500.0,E02000856,Wallington South,Sutton,936.2
+855,E02000857,Sutton 018,309000.0,E02000857,Sutton South West,Sutton,876.9
+856,E02000858,Sutton 019,365000.0,E02000858,Roundshaw,Sutton,1144.1
+857,E02000859,Sutton 020,373500.0,E02000859,Carshalton on the Hill,Sutton,1103.6
+858,E02000860,Sutton 021,269000.0,E02000860,Sutton South & Shanklin,Sutton,851.0
+859,E02000861,Sutton 022,651000.0,E02000861,Carshalton Beeches & Banstead Road,Sutton,879.2
+860,E02000863,Sutton 024,597450.0,E02000863,"Orchard Hill, Woodcote Green & Clockhouse",Sutton,1109.2
+861,E02006836,Sutton 025,705000.0,E02006836,Belmont & South Cheam,Sutton,819.7
+862,E02000864,Tower Hamlets 001,485000.0,E02000864,Bow North & Fish Island,Tower Hamlets,1584.2
+863,E02000865,Tower Hamlets 002,405000.0,E02000865,Bethnal Green North East,Tower Hamlets,918.4
+864,E02000866,Tower Hamlets 003,592000.0,E02000866,Bow West,Tower Hamlets,1098.1
+865,E02000867,Tower Hamlets 004,449000.0,E02000867,Bow South,Tower Hamlets,804.7
+866,E02000868,Tower Hamlets 005,500000.0,E02000868,Bethnal Green North West,Tower Hamlets,1298.9
+867,E02000869,Tower Hamlets 006,625000.0,E02000869,Columbia Road,Tower Hamlets,840.1
+868,E02000870,Tower Hamlets 007,377000.0,E02000870,Bethnal Green East,Tower Hamlets,1368.9
+869,E02000871,Tower Hamlets 008,384000.0,E02000871,Bromley-by-Bow East,Tower Hamlets,1754.8
+870,E02000872,Tower Hamlets 009,480000.0,E02000872,Brick Lane North,Tower Hamlets,1385.1
+871,E02000873,Tower Hamlets 010,430000.0,E02000873,Mile End West,Tower Hamlets,1107.8
+872,E02000874,Tower Hamlets 011,465000.0,E02000874,Bethnal Green Central,Tower Hamlets,1241.4
+873,E02000875,Tower Hamlets 012,360000.0,E02000875,Bromley-by-Bow West,Tower Hamlets,1574.8
+874,E02000876,Tower Hamlets 013,522500.0,E02000876,Bethnal Green South,Tower Hamlets,1828.7
+875,E02000877,Tower Hamlets 014,450000.0,E02000877,Mile End East & Burdett Estate,Tower Hamlets,1576.1
+876,E02000878,Tower Hamlets 015,670000.0,E02000878,Spitalfields,Tower Hamlets,1158.9
+877,E02000879,Tower Hamlets 016,430000.0,E02000879,Stepney Green,Tower Hamlets,1220.3
+878,E02000880,Tower Hamlets 017,420000.0,E02000880,Whitechapel,Tower Hamlets,1413.1
+879,E02000881,Tower Hamlets 018,387000.0,E02000881,Poplar Leaside,Tower Hamlets,1954.8
+880,E02000882,Tower Hamlets 019,485000.0,E02000882,Limehouse North & Stepney East,Tower Hamlets,2018.3
+881,E02000883,Tower Hamlets 020,385000.0,E02000883,Poplar Central,Tower Hamlets,1683.2
+882,E02000884,Tower Hamlets 021,870000.0,E02000884,Aldgate,Tower Hamlets,954.2
+883,E02000885,Tower Hamlets 022,360000.0,E02000885,Shadwell North,Tower Hamlets,1167.2
+884,E02000886,Tower Hamlets 023,460000.0,E02000886,Limehouse East,Tower Hamlets,1182.1
+885,E02000887,Tower Hamlets 024,396000.0,E02000887,Poplar West,Tower Hamlets,1593.6
+886,E02000888,Tower Hamlets 025,472500.0,E02000888,Shadwell Basin & Ratcliffe,Tower Hamlets,889.1
+887,E02000889,Tower Hamlets 026,632500.0,E02000889,St George in the East & Wapping North,Tower Hamlets,864.1
+888,E02000890,Tower Hamlets 027,600000.0,E02000890,Tower Hill & Wapping South,Tower Hamlets,497.9
+889,E02000891,Tower Hamlets 028,504700.0,E02000891,Blackwall & Leamouth,Tower Hamlets,1030.8
+890,E02000893,Tower Hamlets 030,497500.0,E02000893,Mudchute,Tower Hamlets,910.0
+891,E02000894,Tower Hamlets 031,470000.0,E02000894,Millwall South,Tower Hamlets,915.8
+892,E02006853,Tower Hamlets 032,428000.0,E02006853,Millwall North,Tower Hamlets,1197.6
+893,E02006854,Tower Hamlets 033,500000.0,E02006854,Canary Wharf,Tower Hamlets,942.8
+894,E02000895,Waltham Forest 001,458750.0,E02000895,Chingford Green West,Waltham Forest,1283.6
+895,E02000896,Waltham Forest 002,430000.0,E02000896,Chingford Green East,Waltham Forest,1293.7
+896,E02000897,Waltham Forest 003,390000.0,E02000897,Friday Hill,Waltham Forest,1448.9
+897,E02000898,Waltham Forest 004,435000.0,E02000898,Larkswood,Waltham Forest,1025.4
+898,E02000899,Waltham Forest 005,420000.0,E02000899,Chingford Mount,Waltham Forest,1305.5
+899,E02000900,Waltham Forest 006,415000.0,E02000900,South Chingford,Waltham Forest,1755.8
+900,E02000901,Waltham Forest 007,535000.0,E02000901,Highams Park East,Waltham Forest,1097.6
+901,E02000902,Waltham Forest 008,450000.0,E02000902,Highams Park West,Waltham Forest,1122.3
+902,E02000903,Waltham Forest 009,422500.0,E02000903,Higham Hill,Waltham Forest,1372.4
+903,E02000904,Waltham Forest 010,450000.0,E02000904,Fulbourne Road & Walthamstow Forest,Waltham Forest,880.5
+904,E02000905,Waltham Forest 011,500000.0,E02000905,Lloyd Park,Waltham Forest,1369.5
+905,E02000906,Waltham Forest 012,472500.0,E02000906,William Morris,Waltham Forest,891.0
+906,E02000907,Waltham Forest 013,484500.0,E02000907,Wood Street,Waltham Forest,941.1
+907,E02000908,Waltham Forest 014,449748.0,E02000908,Blackhorse Road,Waltham Forest,883.0
+908,E02000909,Waltham Forest 015,645000.0,E02000909,Upper Walthamstow,Waltham Forest,1318.3
+909,E02000910,Waltham Forest 016,547000.0,E02000910,Walthamstow Central,Waltham Forest,1084.8
+910,E02000911,Waltham Forest 017,453000.0,E02000911,Walthamstow Market & South Grove,Waltham Forest,1422.2
+911,E02000912,Waltham Forest 018,520000.0,E02000912,Markhouse & St James Park,Waltham Forest,1246.1
+912,E02000913,Waltham Forest 019,512500.0,E02000913,Whipps Cross,Waltham Forest,1199.6
+913,E02000914,Waltham Forest 020,475000.0,E02000914,Baker's Arms,Waltham Forest,916.5
+914,E02000915,Waltham Forest 021,415000.0,E02000915,Leytonstone North,Waltham Forest,915.8
+915,E02000916,Waltham Forest 022,400000.0,E02000916,Lea Bridge,Waltham Forest,1150.1
+916,E02000917,Waltham Forest 023,441000.0,E02000917,Leyton North,Waltham Forest,947.0
+917,E02000918,Waltham Forest 024,530000.0,E02000918,Leytonstone East,Waltham Forest,958.3
+918,E02000919,Waltham Forest 025,537500.0,E02000919,Leyton East,Waltham Forest,1419.0
+919,E02000920,Waltham Forest 026,392500.0,E02000920,Leyton South,Waltham Forest,1278.0
+920,E02000921,Waltham Forest 027,462000.0,E02000921,Leytonstone South West,Waltham Forest,1170.0
+921,E02000922,Waltham Forest 028,488500.0,E02000922,Leytonstone South East,Waltham Forest,1083.0
+922,E02000923,Wandsworth 001,890000.0,E02000923,Battersea Park,Wandsworth,536.8
+923,E02000924,Wandsworth 002,898500.0,E02000924,Nine Elms & Patmore,Wandsworth,846.3
+924,E02000925,Wandsworth 003,585000.0,E02000925,Battersea Latchmere,Wandsworth,780.9
+925,E02000926,Wandsworth 004,600000.0,E02000926,St Mary's & Cotton Row,Wandsworth,898.8
+926,E02000927,Wandsworth 005,650000.0,E02000927,Lavender Hill East,Wandsworth,901.8
+927,E02000928,Wandsworth 006,814250.0,E02000928,Putney Embankment & Lower Common,Wandsworth,582.2
+928,E02000929,Wandsworth 007,399232.0,E02000929,York Gardens,Wandsworth,998.9
+929,E02000930,Wandsworth 008,749484.0,E02000930,Lavender Hill West & Little India,Wandsworth,719.8
+930,E02000931,Wandsworth 009,991250.0,E02000931,Clapham Common West,Wandsworth,567.4
+931,E02000932,Wandsworth 010,600000.0,E02000932,Putney Town & Wandsworth Park,Wandsworth,744.1
+932,E02000933,Wandsworth 011,635000.0,E02000933,Putney West,Wandsworth,566.3
+933,E02000934,Wandsworth 012,661000.0,E02000934,Clapham Junction & East Hill,Wandsworth,818.4
+934,E02000935,Wandsworth 013,345000.0,E02000935,Roehampton North West,Wandsworth,870.5
+935,E02000936,Wandsworth 014,522500.0,E02000936,East Putney,Wandsworth,852.4
+936,E02000937,Wandsworth 015,875000.0,E02000937,Wandsworth Common,Wandsworth,549.8
+937,E02000938,Wandsworth 016,550000.0,E02000938,Roehampton North East,Wandsworth,885.6
+938,E02000939,Wandsworth 017,1425000.0,E02000939,Nightingale Lane,Wandsworth,752.3
+939,E02000940,Wandsworth 018,430000.0,E02000940,Wandsworth South,Wandsworth,815.6
+940,E02000941,Wandsworth 019,718750.0,E02000941,Earlsfield North,Wandsworth,823.4
+941,E02000942,Wandsworth 020,831250.0,E02000942,Southfields North,Wandsworth,727.7
+942,E02000943,Wandsworth 021,700000.0,E02000943,Balham,Wandsworth,573.0
+943,E02000944,Wandsworth 022,450000.0,E02000944,West Hill North,Wandsworth,1339.3
+944,E02000945,Wandsworth 023,382500.0,E02000945,Roehampton South & Putney Vale,Wandsworth,803.8
+945,E02000946,Wandsworth 024,580000.0,E02000946,Earlsfield South,Wandsworth,898.1
+946,E02000947,Wandsworth 025,656250.0,E02000947,Merton Road,Wandsworth,649.3
+947,E02000948,Wandsworth 026,610000.0,E02000948,Tooting Bec Common,Wandsworth,798.7
+948,E02000949,Wandsworth 027,686500.0,E02000949,Springfield,Wandsworth,666.5
+949,E02000950,Wandsworth 028,448050.0,E02000950,West Hill South,Wandsworth,1096.1
+950,E02000951,Wandsworth 029,615000.0,E02000951,Tooting Bec West,Wandsworth,891.2
+951,E02000952,Wandsworth 030,630000.0,E02000952,Tooting Bec East,Wandsworth,706.1
+952,E02000953,Wandsworth 031,691500.0,E02000953,Summerstown,Wandsworth,688.8
+953,E02000954,Wandsworth 032,675500.0,E02000954,Upper Tooting,Wandsworth,967.7
+954,E02000955,Wandsworth 033,550000.0,E02000955,Tooting North,Wandsworth,814.8
+955,E02000956,Wandsworth 034,490000.0,E02000956,Tooting West,Wandsworth,747.6
+956,E02000957,Wandsworth 035,517500.0,E02000957,Tooting East,Wandsworth,904.6
+957,E02000958,Wandsworth 036,640000.0,E02000958,Furzedown West,Wandsworth,923.3
+958,E02000959,Wandsworth 037,502500.0,E02000959,Furzedown East,Wandsworth,680.7
+959,E02000960,Westminster 001,900000.0,E02000960,St John's Wood North,Westminster,401.6
+960,E02000961,Westminster 002,695000.0,E02000961,Abbey Road,Westminster,522.9
+961,E02000962,Westminster 003,800000.0,E02000962,St John's Wood South,Westminster,522.7
+962,E02000963,Westminster 004,807500.0,E02000963,Queen's Park Gardens,Westminster,909.1
+963,E02000964,Westminster 005,529000.0,E02000964,Maida Hill,Westminster,922.4
+964,E02000965,Westminster 006,810000.0,E02000965,Maida Vale,Westminster,604.9
+965,E02000966,Westminster 007,935000.0,E02000966,Little Venice,Westminster,563.2
+966,E02000967,Westminster 008,1200000.0,E02000967,Regent's Park,Westminster,533.0
+967,E02000968,Westminster 009,600500.0,E02000968,Church Street,Westminster,1043.8
+968,E02000969,Westminster 010,501500.0,E02000969,Westbourne,Westminster,850.6
+969,E02000970,Westminster 011,1942500.0,E02000970,Marylebone & Park Lane,Westminster,379.2
+970,E02000971,Westminster 012,1040000.0,E02000971,Bryanston & Dorset Square,Westminster,350.3
+971,E02000972,Westminster 013,1175000.0,E02000972,Fitzrovia West & Soho,Westminster,477.6
+972,E02000973,Westminster 014,860000.0,E02000973,Westbourne Grove,Westminster,524.9
+973,E02000974,Westminster 015,1152000.0,E02000974,Paddington & St George's Fields,Westminster,417.5
+974,E02000975,Westminster 016,786250.0,E02000975,Bayswater East,Westminster,412.0
+975,E02000976,Westminster 017,880000.0,E02000976,Queensway,Westminster,529.1
+976,E02000977,Westminster 018,1553000.0,E02000977,"Strand, St James & Mayfair",Westminster,597.8
+977,E02000978,Westminster 019,3205000.0,E02000978,"Knightsbridge, Belgravia & Hyde Park",Westminster,221.4
+978,E02000979,Westminster 020,1085000.0,E02000979,Central Westminster,Westminster,414.0
+979,E02000980,Westminster 021,723398.0,E02000980,Millbank,Westminster,587.3
+980,E02000981,Westminster 022,820000.0,E02000981,Pimlico North,Westminster,383.7
+981,E02000982,Westminster 023,1255000.0,E02000982,Victoria,Westminster,724.6
+982,E02000983,Westminster 024,647500.0,E02000983,Pimlico South,Westminster,553.4
